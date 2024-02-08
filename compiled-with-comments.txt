@@ -1,0 +1,181 @@
+# List compiled on 2024-02-08 00:08:30 UTC
+# aviation
+## american-airlines
+### American Airlines - 2024-02-07
+cdn.flyaa.aa.com
+
+# communication
+## discord
+### Discord - 2024-02-07
+dl.discordapp.net
+gateway.discord.gg
+status.discord.com
+cdn.discordapp.com
+latency.discord.media
+media.discordapp.net
+
+# communication
+## skype
+### Skype - 2024-02-07
+open-ai-connect.skype.com
+channels.skype.com
+avatar.skype.com
+az705183.vo.msecnd.net
+config.edge.skype.com
+edge.skype.com
+static-asm.secure.skypeassets.com
+api.asm.skype.com
+api.aps.skype.com
+azscus1-client-s.gateway.messenger.live.com
+go.trouter.skype.com
+msgsearch.skype.com
+people.skype.com
+options.skype.com
+api.flightproxy.skype.com
+prod.registrar.skype.com
+
+# gaming
+## blizzard
+### Blizzard - 2024-02-07
+us.battle.net
+alert-us.battle.net
+alert-eu.battle.net
+account.battle.net
+bnetaccount.akamaized.net
+blzprofile.akamaized.net
+content-ui.battle.net
+geo.battle.net
+nydus.battle.net
+d9qcypg7o58bv.cloudfront.net
+api.blizzard.com
+blz-contentstack-images.akamaized.net
+blz-contentstack-assets.akamaized.net
+bnetcmsus-a.akamaihd.net
+
+# hotels
+## hyatt
+### Hyatt - 2024-02-07
+mobileapp.hyatt.com
+
+# hotels
+## international-hotel-group
+### International Hotels Group - 2024-02-07
+apis.ihg.com
+
+# hotels
+## marriott
+### Marriott - 2024-02-07
+gatewaydsapprd.marriott.com
+
+# media
+## spotify
+### Spotify  - 2024-02-07
+apresolve.spotify.com
+login5.spotify.com
+guc3-spclient.spotify.com
+guc3-dealer.spotify.com
+spclient.wg.spotify.com
+api-partner.spotify.com
+audio4-ak-spotify-com.akamaized.net
+misc.spotifycdn.com
+seed-mix-image.spotifycdn.com
+wrapped-images.spotifycdn.com
+audio4-gm-fb.spotifycdn.com
+heads-fa.scdn.co
+misc.scdn.co
+audio4-fa.scdn.co
+i.scdn.co
+newjams-images.scdn.co
+dailymix-images.scdn.co
+
+# retail
+## starbucks
+### Starbucks - 2024-02-07
+edge.openapi.starbucks.com
+
+# social-media
+## twitter
+### Twitter - 2024-02-07
+api.twitter.com
+
+# software
+## calibre
+### Calibre - 2024-02-07
+code.calibre-ebook.com
+
+# software
+## docker-desktop
+### Docker Desktop - 2024-02-07
+portainer-io-assets.sfo2.digitaloceanspaces.com
+desktop.docker.com
+
+# software
+## github-desktop
+### Github Desktop
+api.github.com
+alive.github.com
+central.github.com
+avatars.githubusercontent.com
+
+# software
+## google-chrome
+### Google Chrome - 2024-02-07
+update.googleapis.com
+www.googleapis.com
+
+# software
+## little-snitch
+### Little Snitch - 2024-02-07
+sw-update.obdev.at
+
+# software
+## sap-concur
+### SAP Concur Mobile App - 2024-02-07
+us2.api.concursolutions.com
+Www-glz.api.concursolutions.com
+
+# software
+## studio-3t
+### Studio 3T - 2024-02-07
+auth.studio3t.com
+update.studio3t.com
+updates.3t.io
+license-portal-eb.studio3t.com
+
+# software
+## video-lan
+### VLC Media Player - 2024-02-07
+update.videolan.org
+
+# software
+## visual-studio-code
+### Visual Studio Code - 2024-02-07
+default.exp-tas.com # AB testing
+az764295.vo.msecnd.net
+marketplace.visualstudio.com
+googlecloudtools.gallery.vsassets.io
+eamodio.gallerycdn.vsassets.io
+ms-vscode-remote.gallery.vsassets.io
+ms-vscode-remote.gallerycdn.vsassets.io
+github.gallerycdn.vsassets.io
+googlecloudtools.gallerycdn.vsassets.io
+
+# vendors
+## apple
+### app-store
+#### App Store - 2024-02-07
+fpinit.itunes.apple.com
+
+# vendors
+## microsoft
+### Microsoft - 2024-02-07
+login.live.com
+ecs.nel.measure.office.net
+substrate.office.net
+
+# weather
+## ventusky
+### Ventusky - 2024-02-07
+data.ventusky.com
+api.ventusky.com
+
