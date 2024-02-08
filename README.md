@@ -3,8 +3,14 @@ A repository for known pinned certificates hostnames out on the internet.
 
 # tl;dr
 Download the file relevant to your needs:
-* The `compiled-with-headers.txt` file contains the headers and hostnames to help navigate the list.
-* The `compiled-without-headers.txt` file contains only the hostnames.
+
+Hosted on Cloudflare:
+* [compiled-with-comments.txt](https://files.nolanrumble.com/pinned-certificates/compiled-with-comments.txt)
+* [compiled-without-comments.txt](https://files.nolanrumble.com/pinned-certificates/compiled-without-comments.txt)
+
+Hosted on Github:
+* The `compiled-with-comments.txt` file contains the headers and hostnames to help navigate the list.
+* The `compiled-without-comments.txt` file contains only the hostnames.
 
 # Directory Structure
 ```
