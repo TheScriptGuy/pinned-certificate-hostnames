@@ -4,7 +4,7 @@ A repository for known pinned certificates hostnames out on the internet.
 # tl;dr
 Download the file relevant to your needs:
 * The `compiled-with-headers.txt` file contains the headers and hostnames to help navigate the list.
-* The `sorted-without-headers.txt` file contains only the hostnames.
+* The `compiled-without-headers.txt` file contains only the hostnames.
 
 # Directory Structure
 ```
