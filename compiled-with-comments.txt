@@ -1,4 +1,4 @@
-# List compiled on 2024-02-08 00:08:30 UTC
+# List compiled on 2024-02-08 01:10:07 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -91,7 +91,7 @@ dailymix-images.scdn.co
 # retail
 ## starbucks
 ### Starbucks - 2024-02-07
-edge.openapi.starbucks.com
+openapi.starbucks.com
 
 # social-media
 ## twitter

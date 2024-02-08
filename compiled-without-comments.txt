@@ -1,4 +1,4 @@
-# List compiled on 2024-02-08 00:08:30 UTC
+# List compiled on 2024-02-08 01:10:07 UTC
 account.battle.net
 alert-eu.battle.net
 alert-us.battle.net
@@ -42,7 +42,6 @@ desktop.docker.com
 dl.discordapp.net
 eamodio.gallerycdn.vsassets.io
 ecs.nel.measure.office.net
-edge.openapi.starbucks.com
 edge.skype.com
 fpinit.itunes.apple.com
 gateway.discord.gg
@@ -71,6 +70,7 @@ msgsearch.skype.com
 newjams-images.scdn.co
 nydus.battle.net
 open-ai-connect.skype.com
+openapi.starbucks.com
 options.skype.com
 people.skype.com
 portainer-io-assets.sfo2.digitaloceanspaces.com
