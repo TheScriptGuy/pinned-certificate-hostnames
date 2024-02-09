@@ -70,6 +70,7 @@ def write_compiled_list(dir_path: str):
         flat_list = "\n".join(compiled_list).split("\n")
         filtered_list = [line for line in flat_list if not line.strip().startswith('#') and line.strip() != '']
         sorted_filtered_list = sorted(filtered_list, key=lambda x: x.lower())
+        print(f"Number of hostnames found: {len(sorted_filtered_list)}")
 
         # Write to compiled-excluding-comments.txt excluding comments and sorted
         with open('compiled-without-comments.txt', 'w') as file:

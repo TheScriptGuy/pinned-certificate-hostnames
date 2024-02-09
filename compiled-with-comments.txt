@@ -1,18 +1,42 @@
-# List compiled on 2024-02-08 01:10:07 UTC
+# List compiled on 2024-02-09 19:54:48 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
 cdn.flyaa.aa.com
 
+# aviation
+## flightradar
+### FlightRadar - 2024-02-09
+data-feed.flightradar24.com
+
+# cloud-storage
+## tresorit
+### Tresorit - 2024-02-09
+*.tresorit.com
+
 # communication
 ## discord
-### Discord - 2024-02-07
+### Discord - 2024-02-09
 dl.discordapp.net
 gateway.discord.gg
 status.discord.com
 cdn.discordapp.com
 latency.discord.media
 media.discordapp.net
+discordapp.net
+
+# communication
+## keybase
+### Keybase - 2024-02-09
+keybase.io
+api.keybase.io
+
+# communication
+## signal
+### Signal - 2024-02-09
+cdn.signal.org
+cdn2.signal.org
+*.signal.org
 
 # communication
 ## skype
@@ -33,6 +57,21 @@ people.skype.com
 options.skype.com
 api.flightproxy.skype.com
 prod.registrar.skype.com
+
+# communication
+## whatsapp
+### Whatsapp - 2024-02-09
+*.whatsapp.net
+
+# cryptocurrency
+## trezor
+### Trezor - 2024-02-09
+*.trezor.io
+
+# finance
+## paypal
+### Paypal - 2024-02-09
+api-m.paypal.com
 
 # gaming
 ## blizzard
@@ -67,6 +106,23 @@ apis.ihg.com
 ### Marriott - 2024-02-07
 gatewaydsapprd.marriott.com
 
+# mail
+## protonmail
+### Proton Mail - 2024-02-09
+*.proton.me
+proton.me
+protonmail.ch
+protonmail.com
+
+# media
+## giphy
+### Giphy - 2024-02-07
+media0.giphy.com
+media1.giphy.com
+media2.giphy.com
+media3.giphy.com
+media4.giphy.com
+
 # media
 ## spotify
 ### Spotify  - 2024-02-07
@@ -88,10 +144,42 @@ i.scdn.co
 newjams-images.scdn.co
 dailymix-images.scdn.co
 
+# mobile-device-management
+## jumpcloud
+### Jumpcloud - 2024-02-09
+apple.mdm.jumpcloud.com
+*.jumpcloud.com
+
 # retail
 ## starbucks
 ### Starbucks - 2024-02-07
 openapi.starbucks.com
+
+# social-media
+## facebook
+### Facebook - 2024-02-09
+gateway.facebook.com
+edge-mqtt.facebook.com
+cdn.fbsbx.com
+web.facebook.com
+*.xz.fbcdn.net
+*.*.fna.fbcdn.net
+
+# social-media
+## instagram
+### Instagram - 2024-02-09
+i.instagram.com
+i-fallback.instagram.com
+gateway.instagram.com
+l.instagram.com
+
+# social-media
+## snapchat
+### Snapchat - 2024-02-09
+*.snapchat.com
+*.chat.snapchat.com
+*.api.snapchat.com
+cf-st.sc-cdn.net
 
 # social-media
 ## twitter
@@ -160,11 +248,23 @@ ms-vscode-remote.gallerycdn.vsassets.io
 github.gallerycdn.vsassets.io
 googlecloudtools.gallerycdn.vsassets.io
 
+# transport
+## uber
+### UBer - 2024-02-09
+*.uber.com
+
 # vendors
 ## apple
 ### app-store
 #### App Store - 2024-02-07
 fpinit.itunes.apple.com
+init.ess.apple.com
+
+# vendors
+## apple
+### maps
+#### Apple Maps - 2024-02-09
+gsp*-ssl.ls.apple.com
 
 # vendors
 ## microsoft
@@ -172,6 +272,18 @@ fpinit.itunes.apple.com
 login.live.com
 ecs.nel.measure.office.net
 substrate.office.net
+
+# video-conferencing
+## zoom
+### Zoom - 2024-02-09
+*.zoom.us
+zoom.us
+*.cloud.zoom.us
+
+# vpn
+## private-internet-access
+### Private Internet Access - 2024-02-09
+*.privateinternetaccess.com
 
 # weather
 ## ventusky
