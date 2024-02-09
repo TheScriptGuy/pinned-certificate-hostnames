@@ -7,6 +7,7 @@ Download the file relevant to your needs:
 Hosted on Cloudflare:
 * The [compiled-with-comments.txt](https://files.nolanrumble.com/pinned-certificates/compiled-with-comments.txt) file contains the headers and hostnames to help navigate the list.
 * The [compiled-without-comments.txt](https://files.nolanrumble.com/pinned-certificates/compiled-without-comments.txt) file contains only the hostnames.
+* The [file-validation.hash](https://files.nolanrumble.com/pinned-certificates/file-validation.hash) file contains a sha256 hash of the 2 text files above.
 
 # Directory Structure
 ```

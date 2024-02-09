@@ -1,7 +1,9 @@
 # 2024-02-09
 ## Enhancements :rocket:
-* Added a print statement to display the number of hostnames found in the hostnames files.
+* Added a print statement to `compile.py` to display the number of hostnames found in the hostnames files.
+* Added a sha256 hash calculation of the `compiled-with-comments.txt` and `compiled-without-comments.txt`. Hashes are added to `file-validation.hash`.
 * Added several other pinned certificate websites.
+
 
 # 2024-02-07
 ## Enhancements :rocket:

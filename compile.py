@@ -1,5 +1,6 @@
 import argparse
 import os
+import hashlib
 from datetime import datetime
 import pytz
 
@@ -7,6 +8,15 @@ def read_file_content(file_path: str) -> str:
     """Reads and returns the content of a file."""
     with open(file_path, 'r') as file:
         return file.read()
+
+def calculate_file_hash(file_path: str) -> str:
+    """Calculates and returns the SHA256 hash of a file."""
+    sha256_hash = hashlib.sha256()
+    with open(file_path, 'rb') as file:
+        for byte_block in iter(lambda: file.read(4096), b""):
+            sha256_hash.update(byte_block)
+    return sha256_hash.hexdigest()
+
 
 def compile_directory_contents(dir_path: str, depth: int = 0, accumulated_path: str = "") -> list:
     """
@@ -77,6 +87,14 @@ def write_compiled_list(dir_path: str):
             file.write(timestamp)
             for line in sorted_filtered_list:
                 file.write(f"{line}\n")
+
+
+        # Calculate hashes and write to file-validation.hash
+        hash_file = 'file-validation.hash'
+        with open(hash_file, 'w') as hashfile:
+            for filename in ['compiled-with-comments.txt', 'compiled-without-comments.txt']:
+                hash_val = calculate_file_hash(filename)
+                hashfile.write(f"{hash_val}  {filename}\n")
 
     except FileNotFoundError as e:
         print(e)
