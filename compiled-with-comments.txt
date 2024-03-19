@@ -1,4 +1,4 @@
-# List compiled on 2024-03-19 20:52:14 UTC
+# List compiled on 2024-03-19 20:54:20 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -272,6 +272,19 @@ gsp*-ssl.ls.apple.com
 login.live.com
 ecs.nel.measure.office.net
 substrate.office.net
+
+# vendors
+## palo-alto-networks
+### logging-service
+#### Logging Service - 2024-03-19
+*.lc.prod.us.cs.paloaltonetworks.com
+in.lc.prod.us.cs.paloaltonetworks.com
+api.lc.prod.us.cs.paloaltonetworks.com
+lic.lc.prod.us.cs.paloaltonetworks.com
+*.lc.prod.eu.cs.paloaltonetworks.com
+in.lc.prod.eu.cs.paloaltonetworks.com
+api.lc.prod.eu.cs.paloaltonetworks.com
+lic.lc.prod.eu.cs.paloaltonetworks.com
 
 # video-conferencing
 ## zoom

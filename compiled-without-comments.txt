@@ -1,9 +1,11 @@
-# List compiled on 2024-03-19 20:52:14 UTC
+# List compiled on 2024-03-19 20:54:20 UTC
 *.*.fna.fbcdn.net
 *.api.snapchat.com
 *.chat.snapchat.com
 *.cloud.zoom.us
 *.jumpcloud.com
+*.lc.prod.eu.cs.paloaltonetworks.com
+*.lc.prod.us.cs.paloaltonetworks.com
 *.privateinternetaccess.com
 *.proton.me
 *.signal.org
@@ -26,6 +28,8 @@ api.blizzard.com
 api.flightproxy.skype.com
 api.github.com
 api.keybase.io
+api.lc.prod.eu.cs.paloaltonetworks.com
+api.lc.prod.us.cs.paloaltonetworks.com
 api.twitter.com
 api.ventusky.com
 apis.ihg.com
@@ -85,10 +89,14 @@ heads-fa.scdn.co
 i-fallback.instagram.com
 i.instagram.com
 i.scdn.co
+in.lc.prod.eu.cs.paloaltonetworks.com
+in.lc.prod.us.cs.paloaltonetworks.com
 init.ess.apple.com
 keybase.io
 l.instagram.com
 latency.discord.media
+lic.lc.prod.eu.cs.paloaltonetworks.com
+lic.lc.prod.us.cs.paloaltonetworks.com
 license-portal-eb.studio3t.com
 login.live.com
 login5.spotify.com
