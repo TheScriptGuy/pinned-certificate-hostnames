@@ -1,4 +1,4 @@
-# List compiled on 2024-03-19 21:31:33 UTC
+# List compiled on 2024-03-19 22:42:09 UTC
 *.*.fna.fbcdn.net
 *.acrobat.com
 *.api.snapchat.com
