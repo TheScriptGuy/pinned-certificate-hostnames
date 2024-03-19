@@ -1,0 +1,5 @@
+*.iot.services-edge.paloaltonetworks.com
+gov-iot.services-edge.paloaltonetworks.com
+stg-gov-iot.services-edge.paloaltonetworks.com
+enforcer.gov-iot.services-edge.paloaltonetworks.com
+enforcer.stg-gov-iot.services-edge.paloaltonetworks.com

@@ -1,4 +1,4 @@
-# List compiled on 2024-03-19 23:01:35 UTC
+# List compiled on 2024-03-19 23:25:22 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -96,6 +96,7 @@ api.blizzard.com
 blz-contentstack-images.akamaized.net
 blz-contentstack-assets.akamaized.net
 bnetcmsus-a.akamaihd.net
+us.actual.battle.net
 
 # hotels
 ## hyatt
@@ -296,11 +297,57 @@ init.ess.apple.com
 gsp*-ssl.ls.apple.com
 
 # vendors
+## apple
+### updates
+#### Updates - 2024-03-19
+appldnld.apple.com
+configuration.apple.com
+gg.apple.com
+gnf-mdn.apple.com
+gnf-mr.apple.com
+ig.apple.com
+mesu.apple.com
+ns.itunes.apple.com
+oscdn.apple.com
+osrecovery.apple.com
+skl.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swpost.apple.com
+swscan.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+xp.apple.com
+
+# vendors
 ## microsoft
 ### Microsoft - 2024-02-07
 login.live.com
 ecs.nel.measure.office.net
 substrate.office.net
+
+# vendors
+## palo-alto-networks
+### dlp
+#### DLP - 2023-04-19
+dlp.uk.hawkeye.services-edge.paloaltonetworks.com
+dlp.gov-hawkeye.services-edge.paloaltonetworks.com
+dlp.stg-gov-hawkeye.services-edge.paloaltonetworks.com
+gov-hawkeye.services-edge.paloaltonetworks.com
+stg-gov-hawkeye.services-edge.paloaltonetworks.com
+enforcer.gov-hawkeye.services-edge.paloaltonetworks.com
+enforcer.stg-gov-hawkeye.services-edge.paloaltonetworks.com
+
+# vendors
+## palo-alto-networks
+### iot
+#### IoT - 2024-03-19
+*.iot.services-edge.paloaltonetworks.com
+gov-iot.services-edge.paloaltonetworks.com
+stg-gov-iot.services-edge.paloaltonetworks.com
+enforcer.gov-iot.services-edge.paloaltonetworks.com
+enforcer.stg-gov-iot.services-edge.paloaltonetworks.com
 
 # vendors
 ## palo-alto-networks
