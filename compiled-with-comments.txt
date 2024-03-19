@@ -1,4 +1,4 @@
-# List compiled on 2024-03-19 20:54:20 UTC
+# List compiled on 2024-03-19 21:31:33 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -8,6 +8,12 @@ cdn.flyaa.aa.com
 ## flightradar
 ### FlightRadar - 2024-02-09
 data-feed.flightradar24.com
+
+# aviation
+## southwest-airlines
+### Southwest Airlines - 2024-03-19
+mobile.southwest.com
+smetrics.com
 
 # cloud-storage
 ## tresorit
@@ -252,6 +258,29 @@ googlecloudtools.gallerycdn.vsassets.io
 ## uber
 ### UBer - 2024-02-09
 *.uber.com
+
+# vendors
+## adobe
+### acrobat-reader
+#### Acrobat Reader - 2024-03-19
+platformdl.adobe.com
+fpdownload.adobe.com
+sstats.adobe.com
+get3.adobe.com
+get.adobe.com
+stats.adobe.com
+dlmping3.adobe.com
+dlmping2.adobe.com
+
+# vendors
+## adobe
+### updates
+#### Adobe Updates - 2024-03-19
+*.acrobat.com
+*.echosign.com
+*.echocdn.com
+*.bam.nr-data.net
+*.newrelic.com
 
 # vendors
 ## apple

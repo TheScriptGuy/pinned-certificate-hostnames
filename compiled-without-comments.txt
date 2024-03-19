@@ -1,11 +1,16 @@
-# List compiled on 2024-03-19 20:54:20 UTC
+# List compiled on 2024-03-19 21:31:33 UTC
 *.*.fna.fbcdn.net
+*.acrobat.com
 *.api.snapchat.com
+*.bam.nr-data.net
 *.chat.snapchat.com
 *.cloud.zoom.us
+*.echocdn.com
+*.echosign.com
 *.jumpcloud.com
 *.lc.prod.eu.cs.paloaltonetworks.com
 *.lc.prod.us.cs.paloaltonetworks.com
+*.newrelic.com
 *.privateinternetaccess.com
 *.proton.me
 *.signal.org
@@ -68,16 +73,21 @@ default.exp-tas.com # AB testing
 desktop.docker.com
 discordapp.net
 dl.discordapp.net
+dlmping2.adobe.com
+dlmping3.adobe.com
 eamodio.gallerycdn.vsassets.io
 ecs.nel.measure.office.net
 edge-mqtt.facebook.com
 edge.skype.com
+fpdownload.adobe.com
 fpinit.itunes.apple.com
 gateway.discord.gg
 gateway.facebook.com
 gateway.instagram.com
 gatewaydsapprd.marriott.com
 geo.battle.net
+get.adobe.com
+get3.adobe.com
 github.gallerycdn.vsassets.io
 go.trouter.skype.com
 googlecloudtools.gallery.vsassets.io
@@ -109,6 +119,7 @@ media3.giphy.com
 media4.giphy.com
 misc.scdn.co
 misc.spotifycdn.com
+mobile.southwest.com
 mobileapp.hyatt.com
 ms-vscode-remote.gallery.vsassets.io
 ms-vscode-remote.gallerycdn.vsassets.io
@@ -119,14 +130,18 @@ open-ai-connect.skype.com
 openapi.starbucks.com
 options.skype.com
 people.skype.com
+platformdl.adobe.com
 portainer-io-assets.sfo2.digitaloceanspaces.com
 prod.registrar.skype.com
 proton.me
 protonmail.ch
 protonmail.com
 seed-mix-image.spotifycdn.com
+smetrics.com
 spclient.wg.spotify.com
+sstats.adobe.com
 static-asm.secure.skypeassets.com
+stats.adobe.com
 status.discord.com
 substrate.office.net
 sw-update.obdev.at
