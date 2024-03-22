@@ -1,4 +1,4 @@
-# List compiled on 2024-03-19 23:25:22 UTC
+# List compiled on 2024-03-22 21:08:47 UTC
 *.*.fna.fbcdn.net
 *.acrobat.com
 *.api.snapchat.com
@@ -74,6 +74,7 @@ data-feed.flightradar24.com
 data.ventusky.com
 default.exp-tas.com # AB testing
 desktop.docker.com
+discord.com
 discordapp.net
 dl.discordapp.net
 dlmping2.adobe.com

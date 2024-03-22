@@ -1,4 +1,4 @@
-# List compiled on 2024-03-19 23:25:22 UTC
+# List compiled on 2024-03-22 21:08:47 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -30,6 +30,7 @@ cdn.discordapp.com
 latency.discord.media
 media.discordapp.net
 discordapp.net
+discord.com
 
 # communication
 ## keybase
