@@ -1,4 +1,4 @@
-# List compiled on 2024-03-22 21:08:47 UTC
+# List compiled on 2024-03-22 21:09:25 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -22,7 +22,7 @@ smetrics.com
 
 # communication
 ## discord
-### Discord - 2024-02-09
+### Discord - 2024-03-22
 dl.discordapp.net
 gateway.discord.gg
 status.discord.com
