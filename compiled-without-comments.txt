@@ -1,4 +1,4 @@
-# List compiled on 2024-03-22 21:09:25 UTC
+# List compiled on 2024-04-05 14:57:00 UTC
 *.*.fna.fbcdn.net
 *.acrobat.com
 *.api.snapchat.com
@@ -86,6 +86,7 @@ eamodio.gallerycdn.vsassets.io
 ecs.nel.measure.office.net
 edge-mqtt.facebook.com
 edge.skype.com
+endpoint.ingress.rapid7.com
 enforcer.gov-hawkeye.services-edge.paloaltonetworks.com
 enforcer.gov-iot.services-edge.paloaltonetworks.com
 enforcer.stg-gov-hawkeye.services-edge.paloaltonetworks.com
@@ -182,6 +183,7 @@ updates.3t.io
 updates.cdn-apple.com
 us.actual.battle.net
 us.battle.net
+us.main.endpoint.ingress.rapid7.com
 us2.api.concursolutions.com
 web.facebook.com
 wrapped-images.spotifycdn.com
