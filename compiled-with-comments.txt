@@ -1,4 +1,4 @@
-# List compiled on 2024-04-05 17:18:26 UTC
+# List compiled on 2024-04-05 17:31:45 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -334,6 +334,27 @@ xp.apple.com
 #### Oculus - 2024-04-05
 graph.oculus.com
 www.oculus.com
+
+# vendors
+## microsoft
+### authentication
+#### Microsoft Authentication - 2024-04-05
+login.live.com
+
+# vendors
+## microsoft
+### office
+#### Microsoft Office - 2024-04-05
+ecs.nel.measure.office.net
+substrate.office.net
+
+# vendors
+## microsoft
+### shared
+#### Shared - 2024-04-05
+winatp-gw-cus.microsoft.com
+us-v20.events.data.microsoft.com
+*.x.cp.wd.microsoft.com
 
 # vendors
 ## microsoft
