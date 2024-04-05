@@ -1,5 +1,6 @@
-# List compiled on 2024-04-05 17:31:45 UTC
+# List compiled on 2024-04-05 23:19:07 UTC
 *.*.fna.fbcdn.net
+*.*.prod.zpath.net
 *.acrobat.com
 *.api.snapchat.com
 *.bam.nr-data.net
@@ -11,6 +12,7 @@
 *.jumpcloud.com
 *.lc.prod.eu.cs.paloaltonetworks.com
 *.lc.prod.us.cs.paloaltonetworks.com
+*.manage.trellix.com
 *.newrelic.com
 *.privateinternetaccess.com
 *.proton.me
@@ -38,6 +40,7 @@ api.github.com
 api.keybase.io
 api.lc.prod.eu.cs.paloaltonetworks.com
 api.lc.prod.us.cs.paloaltonetworks.com
+api.soc.trellix.com
 api.twitter.com
 api.ventusky.com
 apis.ihg.com
@@ -128,10 +131,12 @@ init.ess.apple.com
 keybase.io
 l.instagram.com
 latency.discord.media
+lc.trellix.com
 lic.lc.prod.eu.cs.paloaltonetworks.com
 lic.lc.prod.us.cs.paloaltonetworks.com
 license-portal-eb.studio3t.com
 login.live.com
+login.swi-dre.com
 login5.spotify.com
 marketplace.visualstudio.com
 media.discordapp.net
@@ -144,6 +149,7 @@ mesu.apple.com
 misc.scdn.co
 misc.spotifycdn.com
 mobile.southwest.com
+mobile.zscloud.net
 mobileapp.hyatt.com
 ms-vscode-remote.gallery.vsassets.io
 ms-vscode-remote.gallerycdn.vsassets.io
@@ -164,6 +170,8 @@ proton.me
 protonmail.ch
 protonmail.com
 seed-mix-image.spotifycdn.com
+sentry.io
+services.gradle.org
 skl.apple.com
 smetrics.com
 spclient.wg.spotify.com
