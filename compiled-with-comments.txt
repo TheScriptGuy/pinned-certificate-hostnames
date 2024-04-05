@@ -1,4 +1,4 @@
-# List compiled on 2024-04-05 14:57:00 UTC
+# List compiled on 2024-04-05 17:18:26 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -220,6 +220,13 @@ update.googleapis.com
 www.googleapis.com
 
 # software
+## grammarly
+### Grammarly - 2024-04-05
+f-log.grammarly.io
+win-extension.femetrics.grammarly.io
+f-log-win-extension.grammarily.io
+
+# software
 ## little-snitch
 ### Little Snitch - 2024-02-07
 sw-update.obdev.at
@@ -322,11 +329,18 @@ updates.cdn-apple.com
 xp.apple.com
 
 # vendors
+## meta
+### oculus
+#### Oculus - 2024-04-05
+graph.oculus.com
+www.oculus.com
+
+# vendors
 ## microsoft
-### Microsoft - 2024-02-07
-login.live.com
-ecs.nel.measure.office.net
-substrate.office.net
+### teams
+#### Microsoft Teams - 2024-04-05
+tr.teams.microsoft.com
+*.relay.teams.microsoft.com
 
 # vendors
 ## palo-alto-networks

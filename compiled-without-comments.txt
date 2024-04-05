@@ -1,4 +1,4 @@
-# List compiled on 2024-04-05 14:57:00 UTC
+# List compiled on 2024-04-05 17:18:26 UTC
 *.*.fna.fbcdn.net
 *.acrobat.com
 *.api.snapchat.com
@@ -14,6 +14,7 @@
 *.newrelic.com
 *.privateinternetaccess.com
 *.proton.me
+*.relay.teams.microsoft.com
 *.signal.org
 *.snapchat.com
 *.tresorit.com
@@ -83,7 +84,6 @@ dlp.gov-hawkeye.services-edge.paloaltonetworks.com
 dlp.stg-gov-hawkeye.services-edge.paloaltonetworks.com
 dlp.uk.hawkeye.services-edge.paloaltonetworks.com
 eamodio.gallerycdn.vsassets.io
-ecs.nel.measure.office.net
 edge-mqtt.facebook.com
 edge.skype.com
 endpoint.ingress.rapid7.com
@@ -91,6 +91,8 @@ enforcer.gov-hawkeye.services-edge.paloaltonetworks.com
 enforcer.gov-iot.services-edge.paloaltonetworks.com
 enforcer.stg-gov-hawkeye.services-edge.paloaltonetworks.com
 enforcer.stg-gov-iot.services-edge.paloaltonetworks.com
+f-log-win-extension.grammarily.io
+f-log.grammarly.io
 fpdownload.adobe.com
 fpinit.itunes.apple.com
 gateway.discord.gg
@@ -109,6 +111,7 @@ googlecloudtools.gallery.vsassets.io
 googlecloudtools.gallerycdn.vsassets.io
 gov-hawkeye.services-edge.paloaltonetworks.com
 gov-iot.services-edge.paloaltonetworks.com
+graph.oculus.com
 gsp*-ssl.ls.apple.com
 guc3-dealer.spotify.com
 guc3-spclient.spotify.com
@@ -126,7 +129,6 @@ latency.discord.media
 lic.lc.prod.eu.cs.paloaltonetworks.com
 lic.lc.prod.us.cs.paloaltonetworks.com
 license-portal-eb.studio3t.com
-login.live.com
 login5.spotify.com
 marketplace.visualstudio.com
 media.discordapp.net
@@ -168,13 +170,13 @@ stats.adobe.com
 status.discord.com
 stg-gov-hawkeye.services-edge.paloaltonetworks.com
 stg-gov-iot.services-edge.paloaltonetworks.com
-substrate.office.net
 sw-update.obdev.at
 swcdn.apple.com
 swdist.apple.com
 swdownload.apple.com
 swpost.apple.com
 swscan.apple.com
+tr.teams.microsoft.com
 update.googleapis.com
 update.studio3t.com
 update.videolan.org
@@ -186,8 +188,10 @@ us.battle.net
 us.main.endpoint.ingress.rapid7.com
 us2.api.concursolutions.com
 web.facebook.com
+win-extension.femetrics.grammarly.io
 wrapped-images.spotifycdn.com
 Www-glz.api.concursolutions.com
 www.googleapis.com
+www.oculus.com
 xp.apple.com
 zoom.us
