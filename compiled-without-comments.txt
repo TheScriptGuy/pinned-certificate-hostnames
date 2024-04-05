@@ -1,4 +1,4 @@
-# List compiled on 2024-04-05 23:19:07 UTC
+# List compiled on 2024-04-05 23:29:03 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -81,6 +81,7 @@ default.exp-tas.com # AB testing
 desktop.docker.com
 discord.com
 discordapp.net
+dl.acronis.com
 dl.discordapp.net
 dlmping2.adobe.com
 dlmping3.adobe.com

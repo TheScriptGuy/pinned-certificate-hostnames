@@ -1,4 +1,4 @@
-# List compiled on 2024-04-05 23:19:07 UTC
+# List compiled on 2024-04-05 23:29:03 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -282,6 +282,11 @@ googlecloudtools.gallerycdn.vsassets.io
 ## uber
 ### UBer - 2024-02-09
 *.uber.com
+
+# vendors
+## acronis
+### Acronis - 2024-04-05
+dl.acronis.com
 
 # vendors
 ## adobe
