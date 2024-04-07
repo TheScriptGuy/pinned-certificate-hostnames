@@ -1,4 +1,4 @@
-# List compiled on 2024-04-07 18:27:41 UTC
+# List compiled on 2024-04-07 18:29:26 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -91,7 +91,6 @@ dlp.uk.hawkeye.services-edge.paloaltonetworks.com
 eamodio.gallerycdn.vsassets.io
 ecs.nel.measure.office.net
 edge-mqtt.facebook.com
-edge-mqtt.facebook.com
 edge.skype.com
 endpoint.ingress.rapid7.com
 enforcer.gov-hawkeye.services-edge.paloaltonetworks.com
@@ -171,6 +170,7 @@ prod.registrar.skype.com
 proton.me
 protonmail.ch
 protonmail.com
+scontent.xx.fbcdn.net
 seed-mix-image.spotifycdn.com
 sentry.io
 services.gradle.org
