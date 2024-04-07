@@ -1,4 +1,4 @@
-# List compiled on 2024-04-06 02:01:32 UTC
+# List compiled on 2024-04-07 18:24:38 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -117,6 +117,7 @@ googlecloudtools.gallery.vsassets.io
 googlecloudtools.gallerycdn.vsassets.io
 gov-hawkeye.services-edge.paloaltonetworks.com
 gov-iot.services-edge.paloaltonetworks.com
+graph.facebook.com
 graph.oculus.com
 gsp*-ssl.ls.apple.com
 guc3-dealer.spotify.com

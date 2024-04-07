@@ -1,4 +1,4 @@
-# List compiled on 2024-04-06 02:01:32 UTC
+# List compiled on 2024-04-07 18:24:38 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -347,6 +347,12 @@ swscan.apple.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 xp.apple.com
+
+# vendors
+## meta
+### facebook
+#### Facebook - 2024-04-07
+graph.facebook.com
 
 # vendors
 ## meta
