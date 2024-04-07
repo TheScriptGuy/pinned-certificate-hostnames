@@ -1,4 +1,4 @@
-# List compiled on 2024-04-07 18:29:26 UTC
+# List compiled on 2024-04-07 18:33:41 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -8,6 +8,7 @@
 *.cloud.zoom.us
 *.echocdn.com
 *.echosign.com
+*.fna.fbcdn.net
 *.iot.services-edge.paloaltonetworks.com
 *.jumpcloud.com
 *.lc.prod.eu.cs.paloaltonetworks.com
@@ -24,6 +25,7 @@
 *.uber.com
 *.whatsapp.net
 *.x.cp.wd.microsoft.com
+*.xx.fbcdn.net
 *.xz.fbcdn.net
 *.zoom.us
 account.battle.net
