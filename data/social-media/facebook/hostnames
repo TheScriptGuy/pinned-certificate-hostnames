@@ -4,3 +4,7 @@ cdn.fbsbx.com
 web.facebook.com
 *.xz.fbcdn.net
 *.*.fna.fbcdn.net
+scontent.xx.fbcdn.net
+*.xx.fbcdn.net
+*.fna.fbcdn.net
+graph.facebook.com

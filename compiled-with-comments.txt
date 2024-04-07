@@ -1,4 +1,4 @@
-# List compiled on 2024-04-07 18:33:41 UTC
+# List compiled on 2024-04-07 18:42:09 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -172,6 +172,10 @@ cdn.fbsbx.com
 web.facebook.com
 *.xz.fbcdn.net
 *.*.fna.fbcdn.net
+scontent.xx.fbcdn.net
+*.xx.fbcdn.net
+*.fna.fbcdn.net
+graph.facebook.com
 
 # social-media
 ## instagram
@@ -347,14 +351,6 @@ swscan.apple.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 xp.apple.com
-
-# vendors
-## meta
-### facebook
-#### Facebook - 2024-04-07
-scontent.xx.fbcdn.net
-*.xx.fbcdn.net
-*.fna.fbcdn.net
 
 # vendors
 ## meta
