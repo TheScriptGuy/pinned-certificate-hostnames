@@ -1,4 +1,4 @@
-# List compiled on 2024-04-07 18:24:38 UTC
+# List compiled on 2024-04-07 18:27:41 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -352,7 +352,7 @@ xp.apple.com
 ## meta
 ### facebook
 #### Facebook - 2024-04-07
-graph.facebook.com
+edge-mqtt.facebook.com
 
 # vendors
 ## meta

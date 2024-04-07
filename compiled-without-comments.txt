@@ -1,4 +1,4 @@
-# List compiled on 2024-04-07 18:24:38 UTC
+# List compiled on 2024-04-07 18:27:41 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -91,6 +91,7 @@ dlp.uk.hawkeye.services-edge.paloaltonetworks.com
 eamodio.gallerycdn.vsassets.io
 ecs.nel.measure.office.net
 edge-mqtt.facebook.com
+edge-mqtt.facebook.com
 edge.skype.com
 endpoint.ingress.rapid7.com
 enforcer.gov-hawkeye.services-edge.paloaltonetworks.com
@@ -117,7 +118,6 @@ googlecloudtools.gallery.vsassets.io
 googlecloudtools.gallerycdn.vsassets.io
 gov-hawkeye.services-edge.paloaltonetworks.com
 gov-iot.services-edge.paloaltonetworks.com
-graph.facebook.com
 graph.oculus.com
 gsp*-ssl.ls.apple.com
 guc3-dealer.spotify.com
