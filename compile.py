@@ -88,11 +88,16 @@ def write_compiled_list(dir_path: str):
             for line in sorted_filtered_list:
                 file.write(f"{line}\n")
 
+        # Write a Palo Alto Networks specific exclude list.
+        with open('panw-compiled-without-comments.txt', 'w') as panw_file:
+            panw_file.write(timestamp)
+            for line in sorted_filtered_list:
+                panw_file.write(f"{line}/\n")
 
         # Calculate hashes and write to file-validation.hash
         hash_file = 'file-validation.hash'
         with open(hash_file, 'w') as hashfile:
-            for filename in ['compiled-with-comments.txt', 'compiled-without-comments.txt']:
+            for filename in ['compiled-with-comments.txt', 'compiled-without-comments.txt', 'panw-compiled-without-comments.txt']:
                 hash_val = calculate_file_hash(filename)
                 hashfile.write(f"{hash_val}  {filename}\n")
 
