@@ -1,4 +1,4 @@
-# List compiled on 2024-04-11 17:49:10 UTC
+# List compiled on 2024-04-12 16:11:01 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -16,7 +16,6 @@
 *.manage.trellix.com/
 *.newrelic.com/
 *.privateinternetaccess.com/
-*.proton.me/
 *.relay.teams.microsoft.com/
 *.signal.org/
 *.snapchat.com/
@@ -29,6 +28,9 @@
 *.xz.fbcdn.net/
 *.zoom.us/
 account.battle.net/
+account.proton.me/
+account.protonmail.com/
+account.protonvpn.com/
 alert-eu.battle.net/
 alert-us.battle.net/
 alive.github.com/
@@ -42,6 +44,8 @@ api.github.com/
 api.keybase.io/
 api.lc.prod.eu.cs.paloaltonetworks.com/
 api.lc.prod.us.cs.paloaltonetworks.com/
+api.protonmail.ch/
+api.protonvpn.ch/
 api.soc.trellix.com/
 api.twitter.com/
 api.ventusky.com/
@@ -142,6 +146,7 @@ license-portal-eb.studio3t.com/
 login.live.com/
 login.swi-dre.com/
 login5.spotify.com/
+mail-api.proton.me/
 marketplace.visualstudio.com/
 media.discordapp.net/
 media0.giphy.com/
@@ -173,6 +178,8 @@ prod.registrar.skype.com/
 proton.me/
 protonmail.ch/
 protonmail.com/
+protonvpn.ch/
+protonvpn.com/
 scontent.xx.fbcdn.net/
 seed-mix-image.spotifycdn.com/
 sentry.io/
@@ -184,6 +191,7 @@ sstats.adobe.com/
 static-asm.secure.skypeassets.com/
 stats.adobe.com/
 status.discord.com/
+status.proton.me/
 stg-gov-hawkeye.services-edge.paloaltonetworks.com/
 stg-gov-iot.services-edge.paloaltonetworks.com/
 substrate.office.net/
@@ -205,6 +213,11 @@ us.actual.battle.net/
 us.battle.net/
 us.main.endpoint.ingress.rapid7.com/
 us2.api.concursolutions.com/
+verify-api.protonmail.com/
+verify-api.protonvpn.com/
+verify.proton.me/
+verify.protonmail.com/
+verify.protonvpn.com/
 web.facebook.com/
 win-extension.femetrics.grammarly.io/
 winatp-gw-cus.microsoft.com/
