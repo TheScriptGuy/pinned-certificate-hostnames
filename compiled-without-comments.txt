@@ -1,4 +1,4 @@
-# List compiled on 2024-04-16 23:41:36 UTC
+# List compiled on 2024-04-17 00:09:18 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -31,9 +31,11 @@ account.battle.net
 account.proton.me
 account.protonmail.com
 account.protonvpn.com
+agents-il4-prod-us-central1.dem.prismasasegov.com
 agents.au1.ap-southeast-2.dem.prismaaccess.com
 agents.ca1.ca-central-1.dem.prismaaccess.com
 agents.dem.prismaaccess.com
+agents.dem.prismasasegov.com
 agents.eu1.eu-central-1.dem.prismaaccess.com
 agents.in1.ap-south-1.dem.prismaaccess.com
 agents.jp1.ap-northeast-1.dem.prismaaccess.com
