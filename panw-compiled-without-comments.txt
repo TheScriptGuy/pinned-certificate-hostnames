@@ -1,4 +1,4 @@
-# List compiled on 2024-04-17 00:09:18 UTC
+# List compiled on 2024-04-18 00:11:27 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -10,6 +10,7 @@
 *.echosign.com/
 *.fna.fbcdn.net/
 *.iot.services-edge.paloaltonetworks.com/
+*.iterm2.com/
 *.jumpcloud.com/
 *.lc.prod.eu.cs.paloaltonetworks.com/
 *.lc.prod.us.cs.paloaltonetworks.com/

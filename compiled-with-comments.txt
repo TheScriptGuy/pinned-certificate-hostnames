@@ -1,4 +1,4 @@
-# List compiled on 2024-04-17 00:09:18 UTC
+# List compiled on 2024-04-18 00:11:27 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -252,6 +252,11 @@ services.gradle.org
 f-log.grammarly.io
 win-extension.femetrics.grammarly.io
 f-log-win-extension.grammarily.io
+
+# software
+## iterm2
+### iTerm2 - 2024-04-17
+*.iterm2.com
 
 # software
 ## little-snitch
