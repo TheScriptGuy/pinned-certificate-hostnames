@@ -1,4 +1,4 @@
-# List compiled on 2024-04-18 00:11:27 UTC
+# List compiled on 2024-04-18 18:28:52 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -28,6 +28,7 @@
 *.xx.fbcdn.net/
 *.xz.fbcdn.net/
 *.zoom.us/
+4.sophosxl.net/
 account.battle.net/
 account.proton.me/
 account.protonmail.com/

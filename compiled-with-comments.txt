@@ -1,4 +1,4 @@
-# List compiled on 2024-04-18 00:11:27 UTC
+# List compiled on 2024-04-18 18:28:52 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -461,6 +461,11 @@ lic.lc.prod.eu.cs.paloaltonetworks.com
 ### Rapid7 Application - 2024-04-05
 us.main.endpoint.ingress.rapid7.com
 endpoint.ingress.rapid7.com
+
+# vendors
+## sophos
+### Sophos - 2024-04-18
+4.sophosxl.net
 
 # vendors
 ## trellix
