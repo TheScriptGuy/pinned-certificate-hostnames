@@ -1,4 +1,4 @@
-# List compiled on 2024-04-18 18:28:52 UTC
+# List compiled on 2024-04-19 15:12:50 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -223,8 +223,10 @@ updates.3t.io
 updates.cdn-apple.com
 us-v20.events.data.microsoft.com
 us.actual.battle.net
+us.api.endpoint.ingress.rapid7.com
 us.battle.net
 us.main.endpoint.ingress.rapid7.com
+us.storage.endpoint.ingress.rapid7.com
 us2.api.concursolutions.com
 verify-api.protonmail.com
 verify-api.protonvpn.com
