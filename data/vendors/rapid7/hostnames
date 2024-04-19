@@ -2,3 +2,4 @@ us.main.endpoint.ingress.rapid7.com
 endpoint.ingress.rapid7.com
 us.api.endpoint.ingress.rapid7.com
 us.storage.endpoint.ingress.rapid7.com
+us.storage.main.endpoint.ingress.rapid7.com
