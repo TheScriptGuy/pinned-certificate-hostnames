@@ -1,4 +1,4 @@
-# List compiled on 2024-04-19 16:04:45 UTC
+# List compiled on 2024-04-22 21:06:26 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -335,10 +335,22 @@ dlmping2.adobe.com
 
 # vendors
 ## apple
+### app-notarization
+#### App Notarization - 2024-04-22
+api.apple-cloudkit.com
+
+# vendors
+## apple
 ### app-store
 #### App Store - 2024-02-07
 fpinit.itunes.apple.com
 init.ess.apple.com
+
+# vendors
+## apple
+### apple-tv
+#### Apple TV - 2024-04-22
+sylvan.apple.com
 
 # vendors
 ## apple

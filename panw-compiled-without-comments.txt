@@ -1,4 +1,4 @@
-# List compiled on 2024-04-19 16:04:45 UTC
+# List compiled on 2024-04-22 21:06:26 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -49,6 +49,7 @@ alert-us.battle.net/
 alive.github.com/
 api-m.paypal.com/
 api-partner.spotify.com/
+api.apple-cloudkit.com/
 api.aps.skype.com/
 api.asm.skype.com/
 api.blizzard.com/
@@ -214,6 +215,7 @@ swdist.apple.com/
 swdownload.apple.com/
 swpost.apple.com/
 swscan.apple.com/
+sylvan.apple.com/
 tr.teams.microsoft.com/
 update.googleapis.com/
 update.studio3t.com/
