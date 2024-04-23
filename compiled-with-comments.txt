@@ -1,4 +1,4 @@
-# List compiled on 2024-04-22 21:06:26 UTC
+# List compiled on 2024-04-23 15:36:24 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -381,6 +381,12 @@ swscan.apple.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 xp.apple.com
+
+# vendors
+## cisco
+### mce
+#### My Cisco Entitlements (MCE) - 2024-04-23
+mce.cisco.com
 
 # vendors
 ## meta

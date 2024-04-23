@@ -1,4 +1,4 @@
-# List compiled on 2024-04-22 21:06:26 UTC
+# List compiled on 2024-04-23 15:36:24 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -162,6 +162,7 @@ login.swi-dre.com/
 login5.spotify.com/
 mail-api.proton.me/
 marketplace.visualstudio.com/
+mce.cisco.com/
 media.discordapp.net/
 media0.giphy.com/
 media1.giphy.com/
