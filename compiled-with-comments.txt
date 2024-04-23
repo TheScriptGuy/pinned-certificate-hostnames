@@ -1,4 +1,4 @@
-# List compiled on 2024-04-23 15:36:24 UTC
+# List compiled on 2024-04-23 16:32:30 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -217,6 +217,12 @@ api.twitter.com
 code.calibre-ebook.com
 
 # software
+## cyberpower
+### powerpanel
+#### PowerPanel Service - 2024-04-23
+powerpanelservice.cyberpower.com
+
+# software
 ## dameware-remote-everywhere
 ### Dameware Remote Everywhere - 2024-04-05
 login.swi-dre.com
@@ -381,6 +387,12 @@ swscan.apple.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 xp.apple.com
+
+# vendors
+## apple
+### weather
+#### Apple Weather - 2024-04-23
+weather-data.apple.com
 
 # vendors
 ## cisco

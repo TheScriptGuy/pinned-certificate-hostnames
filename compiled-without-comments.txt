@@ -1,4 +1,4 @@
-# List compiled on 2024-04-23 15:36:24 UTC
+# List compiled on 2024-04-23 16:32:30 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -189,6 +189,7 @@ osrecovery.apple.com
 people.skype.com
 platformdl.adobe.com
 portainer-io-assets.sfo2.digitaloceanspaces.com
+powerpanelservice.cyberpower.com
 prod.registrar.skype.com
 proton.me
 protonmail.ch
@@ -237,6 +238,7 @@ verify-api.protonvpn.com
 verify.proton.me
 verify.protonmail.com
 verify.protonvpn.com
+weather-data.apple.com
 web.facebook.com
 win-extension.femetrics.grammarly.io
 winatp-gw-cus.microsoft.com
