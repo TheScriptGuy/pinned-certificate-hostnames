@@ -1,4 +1,4 @@
-# List compiled on 2024-04-23 16:32:30 UTC
+# List compiled on 2024-05-01 22:36:06 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -89,6 +89,7 @@ cdn2.signal.org
 central.github.com
 cf-st.sc-cdn.net
 channels.skype.com
+charts-images.scdn.co
 code.calibre-ebook.com
 config.edge.skype.com
 configuration.apple.com
@@ -142,6 +143,7 @@ graph.oculus.com
 gsp*-ssl.ls.apple.com
 guc3-dealer.spotify.com
 guc3-spclient.spotify.com
+guzzoni.apple.com
 heads-fa.scdn.co
 i-fallback.instagram.com
 i.instagram.com

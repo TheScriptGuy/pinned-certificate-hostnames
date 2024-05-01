@@ -1,4 +1,4 @@
-# List compiled on 2024-04-23 16:32:30 UTC
+# List compiled on 2024-05-01 22:36:06 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -164,6 +164,7 @@ audio4-fa.scdn.co
 i.scdn.co
 newjams-images.scdn.co
 dailymix-images.scdn.co
+charts-images.scdn.co
 
 # mobile-device-management
 ## jumpcloud
@@ -363,6 +364,12 @@ sylvan.apple.com
 ### maps
 #### Apple Maps - 2024-02-09
 gsp*-ssl.ls.apple.com
+
+# vendors
+## apple
+### siri
+#### Siri - 2024-05-01
+guzzoni.apple.com
 
 # vendors
 ## apple
