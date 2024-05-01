@@ -1,4 +1,4 @@
-# List compiled on 2024-05-01 22:36:06 UTC
+# List compiled on 2024-05-01 22:39:33 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -159,6 +159,7 @@ lc.trellix.com/
 lic.lc.prod.eu.cs.paloaltonetworks.com/
 lic.lc.prod.us.cs.paloaltonetworks.com/
 license-portal-eb.studio3t.com/
+lineup-images.scdn.co/
 login.live.com/
 login.swi-dre.com/
 login5.spotify.com/
