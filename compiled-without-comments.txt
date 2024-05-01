@@ -1,4 +1,4 @@
-# List compiled on 2024-05-01 22:39:33 UTC
+# List compiled on 2024-05-01 22:42:10 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -178,6 +178,7 @@ misc.spotifycdn.com
 mobile.southwest.com
 mobile.zscloud.net
 mobileapp.hyatt.com
+mosaic.scdn.co
 ms-vscode-remote.gallery.vsassets.io
 ms-vscode-remote.gallerycdn.vsassets.io
 msgsearch.skype.com

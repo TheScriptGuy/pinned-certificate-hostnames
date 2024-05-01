@@ -1,4 +1,4 @@
-# List compiled on 2024-05-01 22:39:33 UTC
+# List compiled on 2024-05-01 22:42:10 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -166,6 +166,7 @@ newjams-images.scdn.co
 dailymix-images.scdn.co
 charts-images.scdn.co
 lineup-images.scdn.co
+mosaic.scdn.co
 
 # mobile-device-management
 ## jumpcloud
