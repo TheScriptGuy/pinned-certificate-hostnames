@@ -1,4 +1,4 @@
-# List compiled on 2024-05-01 22:44:13 UTC
+# List compiled on 2024-05-13 20:11:05 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -26,6 +26,7 @@
 *.whatsapp.net
 *.x.cp.wd.microsoft.com
 *.xx.fbcdn.net
+*.xy.fbcdn.net
 *.xz.fbcdn.net
 *.zoom.us
 4.sophosxl.net
@@ -201,7 +202,6 @@ protonmail.com
 protonvpn.ch
 protonvpn.com
 scontent.xx.fbcdn.net
-seed-mix-image.spotifycdn.com
 seed-mix-image.spotifycdn.com
 sentry.io
 services.gradle.org

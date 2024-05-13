@@ -1,4 +1,4 @@
-# List compiled on 2024-05-01 22:44:13 UTC
+# List compiled on 2024-05-13 20:11:05 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -167,7 +167,6 @@ dailymix-images.scdn.co
 charts-images.scdn.co
 lineup-images.scdn.co
 mosaic.scdn.co
-seed-mix-image.spotifycdn.com
 
 # mobile-device-management
 ## jumpcloud
@@ -182,7 +181,7 @@ openapi.starbucks.com
 
 # social-media
 ## facebook
-### Facebook - 2024-02-09
+### Facebook - 2024-05-13
 gateway.facebook.com
 edge-mqtt.facebook.com
 cdn.fbsbx.com
@@ -191,6 +190,7 @@ web.facebook.com
 *.*.fna.fbcdn.net
 scontent.xx.fbcdn.net
 *.xx.fbcdn.net
+*.xy.fbcdn.net
 *.fna.fbcdn.net
 graph.facebook.com
 
