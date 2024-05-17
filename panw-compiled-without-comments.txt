@@ -1,4 +1,4 @@
-# List compiled on 2024-05-13 20:11:05 UTC
+# List compiled on 2024-05-17 15:48:24 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -88,6 +88,7 @@ cdn.flyaa.aa.com/
 cdn.signal.org/
 cdn2.signal.org/
 central.github.com/
+certauth.login.microsoftonline.com/
 cf-st.sc-cdn.net/
 channels.skype.com/
 charts-images.scdn.co/
@@ -101,6 +102,7 @@ data-feed.flightradar24.com/
 data.ventusky.com/
 default.exp-tas.com # AB testing/
 desktop.docker.com/
+device.login.microsoftonline.com/
 discord.com/
 discordapp.net/
 dl.acronis.com/

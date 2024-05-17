@@ -1,4 +1,4 @@
-# List compiled on 2024-05-13 20:11:05 UTC
+# List compiled on 2024-05-17 15:48:24 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -420,8 +420,10 @@ www.oculus.com
 # vendors
 ## microsoft
 ### authentication
-#### Microsoft Authentication - 2024-04-05
+#### Microsoft Authentication - 2024-05-17
 login.live.com
+device.login.microsoftonline.com
+certauth.login.microsoftonline.com
 
 # vendors
 ## microsoft
