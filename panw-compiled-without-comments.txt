@@ -1,4 +1,4 @@
-# List compiled on 2024-05-17 15:48:24 UTC
+# List compiled on 2024-05-30 00:36:38 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -203,6 +203,7 @@ protonmail.ch/
 protonmail.com/
 protonvpn.ch/
 protonvpn.com/
+rupload.facebook.com/
 scontent.xx.fbcdn.net/
 seed-mix-image.spotifycdn.com/
 sentry.io/

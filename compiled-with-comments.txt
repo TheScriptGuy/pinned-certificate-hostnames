@@ -1,4 +1,4 @@
-# List compiled on 2024-05-17 15:48:24 UTC
+# List compiled on 2024-05-30 00:36:38 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -193,6 +193,7 @@ scontent.xx.fbcdn.net
 *.xy.fbcdn.net
 *.fna.fbcdn.net
 graph.facebook.com
+rupload.facebook.com
 
 # social-media
 ## instagram
