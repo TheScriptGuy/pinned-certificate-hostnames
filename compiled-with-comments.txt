@@ -1,4 +1,4 @@
-# List compiled on 2024-05-30 00:36:38 UTC
+# List compiled on 2024-05-30 00:39:39 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -181,7 +181,7 @@ openapi.starbucks.com
 
 # social-media
 ## facebook
-### Facebook - 2024-05-13
+### Facebook - 2024-05-29
 gateway.facebook.com
 edge-mqtt.facebook.com
 cdn.fbsbx.com
