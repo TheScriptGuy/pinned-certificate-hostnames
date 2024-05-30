@@ -1,4 +1,4 @@
-# List compiled on 2024-05-30 00:39:39 UTC
+# List compiled on 2024-05-30 23:45:27 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -100,6 +100,7 @@ d9qcypg7o58bv.cloudfront.net/
 dailymix-images.scdn.co/
 data-feed.flightradar24.com/
 data.ventusky.com/
+dealer.spotify.com/
 default.exp-tas.com # AB testing/
 desktop.docker.com/
 device.login.microsoftonline.com/

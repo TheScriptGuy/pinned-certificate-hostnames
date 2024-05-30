@@ -1,4 +1,4 @@
-# List compiled on 2024-05-30 00:39:39 UTC
+# List compiled on 2024-05-30 23:45:27 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -146,7 +146,7 @@ media4.giphy.com
 
 # media
 ## spotify
-### Spotify  - 2024-02-07
+### Spotify - 2024-05-30
 apresolve.spotify.com
 login5.spotify.com
 guc3-spclient.spotify.com
@@ -167,6 +167,7 @@ dailymix-images.scdn.co
 charts-images.scdn.co
 lineup-images.scdn.co
 mosaic.scdn.co
+dealer.spotify.com
 
 # mobile-device-management
 ## jumpcloud
