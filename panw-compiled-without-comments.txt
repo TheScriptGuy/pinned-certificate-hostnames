@@ -1,4 +1,4 @@
-# List compiled on 2024-05-30 23:45:27 UTC
+# List compiled on 2024-05-30 23:49:16 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -170,6 +170,7 @@ login5.spotify.com/
 mail-api.proton.me/
 marketplace.visualstudio.com/
 mce.cisco.com/
+mcs2-cloudstation-us-east-1.prod.hydra.sophos.com/
 media.discordapp.net/
 media0.giphy.com/
 media1.giphy.com/
@@ -220,6 +221,7 @@ status.proton.me/
 stg-gov-hawkeye.services-edge.paloaltonetworks.com/
 stg-gov-iot.services-edge.paloaltonetworks.com/
 substrate.office.net/
+sus.sophosupd.com/
 sw-update.obdev.at/
 swcdn.apple.com/
 swdist.apple.com/
