@@ -1,4 +1,4 @@
-# List compiled on 2024-05-30 23:49:16 UTC
+# List compiled on 2024-06-01 04:31:21 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -54,6 +54,7 @@ api.apple-cloudkit.com
 api.aps.skype.com
 api.asm.skype.com
 api.blizzard.com
+api.delta.com
 api.flightproxy.skype.com
 api.github.com
 api.keybase.io

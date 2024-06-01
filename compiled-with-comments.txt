@@ -1,8 +1,13 @@
-# List compiled on 2024-05-30 23:49:16 UTC
+# List compiled on 2024-06-01 04:31:21 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
 cdn.flyaa.aa.com
+
+# aviation
+## delta
+### Delta Airlines - 2024-05-31
+api.delta.com
 
 # aviation
 ## flightradar
