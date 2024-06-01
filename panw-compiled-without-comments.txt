@@ -1,4 +1,4 @@
-# List compiled on 2024-06-01 04:31:21 UTC
+# List compiled on 2024-06-01 04:35:27 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -211,6 +211,7 @@ scontent.xx.fbcdn.net/
 seed-mix-image.spotifycdn.com/
 sentry.io/
 services.gradle.org/
+signin.delta.com/
 skl.apple.com/
 smetrics.com/
 spclient.wg.spotify.com/
