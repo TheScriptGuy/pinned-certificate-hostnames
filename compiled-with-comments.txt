@@ -1,4 +1,4 @@
-# List compiled on 2024-06-01 04:35:27 UTC
+# List compiled on 2024-06-05 19:01:24 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -505,6 +505,12 @@ lic.lc.prod.us.cs.paloaltonetworks.com
 in.lc.prod.eu.cs.paloaltonetworks.com
 api.lc.prod.eu.cs.paloaltonetworks.com
 lic.lc.prod.eu.cs.paloaltonetworks.com
+
+# vendors
+## palo-alto-networks
+### sdwan
+#### Prisma SDWAN - 2024-06-05
+sdwan-stats-hood-us.cgnx.net
 
 # vendors
 ## rapid7
