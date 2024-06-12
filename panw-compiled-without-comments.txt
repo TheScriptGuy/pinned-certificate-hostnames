@@ -1,4 +1,4 @@
-# List compiled on 2024-06-05 19:01:24 UTC
+# List compiled on 2024-06-12 20:59:58 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -232,6 +232,7 @@ swdownload.apple.com/
 swpost.apple.com/
 swscan.apple.com/
 sylvan.apple.com/
+tickrmeter.io/
 tr.teams.microsoft.com/
 update.googleapis.com/
 update.studio3t.com/

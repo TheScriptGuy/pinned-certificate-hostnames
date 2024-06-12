@@ -1,4 +1,4 @@
-# List compiled on 2024-06-05 19:01:24 UTC
+# List compiled on 2024-06-12 20:59:58 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -85,6 +85,11 @@ prod.registrar.skype.com
 ## paypal
 ### Paypal - 2024-02-09
 api-m.paypal.com
+
+# finance
+## tickrmeter
+### tickrmeter.io - 2024-06-12
+tickrmeter.io
 
 # gaming
 ## blizzard
