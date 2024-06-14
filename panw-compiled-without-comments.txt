@@ -1,4 +1,4 @@
-# List compiled on 2024-06-12 20:59:58 UTC
+# List compiled on 2024-06-14 15:03:01 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -93,10 +93,12 @@ certauth.login.microsoftonline.com/
 cf-st.sc-cdn.net/
 channels.skype.com/
 charts-images.scdn.co/
+cloudsink.net/
 code.calibre-ebook.com/
 config.edge.skype.com/
 configuration.apple.com/
 content-ui.battle.net/
+crowdstrike.com/
 d9qcypg7o58bv.cloudfront.net/
 dailymix-images.scdn.co/
 data-feed.flightradar24.com/
@@ -125,6 +127,7 @@ enforcer.stg-gov-hawkeye.services-edge.paloaltonetworks.com/
 enforcer.stg-gov-iot.services-edge.paloaltonetworks.com/
 f-log-win-extension.grammarily.io/
 f-log.grammarly.io/
+falcon.crowdstrike.com/
 fpdownload.adobe.com/
 fpinit.itunes.apple.com/
 gateway.discord.gg/
@@ -161,6 +164,7 @@ keybase.io/
 l.instagram.com/
 latency.discord.media/
 lc.trellix.com/
+lfodown01-b.cloudsink.net/
 lic.lc.prod.eu.cs.paloaltonetworks.com/
 lic.lc.prod.us.cs.paloaltonetworks.com/
 license-portal-eb.studio3t.com/
@@ -234,6 +238,7 @@ swscan.apple.com/
 sylvan.apple.com/
 tickrmeter.io/
 tr.teams.microsoft.com/
+ts01-b.cloudsink.net/
 update.googleapis.com/
 update.studio3t.com/
 update.videolan.org/

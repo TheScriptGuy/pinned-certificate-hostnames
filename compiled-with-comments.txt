@@ -1,4 +1,4 @@
-# List compiled on 2024-06-12 20:59:58 UTC
+# List compiled on 2024-06-14 15:03:01 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -422,6 +422,15 @@ weather-data.apple.com
 ### mce
 #### My Cisco Entitlements (MCE) - 2024-04-23
 mce.cisco.com
+
+# vendors
+## crowdstrike
+### Crowdstrike - 2024-06-14
+falcon.crowdstrike.com
+crowdstrike.com
+cloudsink.net
+ts01-b.cloudsink.net
+lfodown01-b.cloudsink.net
 
 # vendors
 ## meta
