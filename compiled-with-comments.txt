@@ -1,4 +1,4 @@
-# List compiled on 2024-06-14 15:03:01 UTC
+# List compiled on 2024-06-15 23:04:21 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -249,6 +249,11 @@ login.swi-dre.com
 ### Docker Desktop - 2024-02-07
 portainer-io-assets.sfo2.digitaloceanspaces.com
 desktop.docker.com
+
+# software
+## filezilla
+### Filezilla - 2024-06-15
+update.filezilla-project.org
 
 # software
 ## github-desktop
