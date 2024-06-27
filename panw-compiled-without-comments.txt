@@ -1,4 +1,4 @@
-# List compiled on 2024-06-15 23:04:21 UTC
+# List compiled on 2024-06-27 22:44:45 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -160,6 +160,22 @@ ig.apple.com/
 in.lc.prod.eu.cs.paloaltonetworks.com/
 in.lc.prod.us.cs.paloaltonetworks.com/
 init.ess.apple.com/
+intunemaape1.eus.attest.azure.net/
+intunemaape10.weu.attest.azure.net/
+intunemaape11.weu.attest.azure.net/
+intunemaape12.weu.attest.azure.net/
+intunemaape13.jpe.attest.azure.net/
+intunemaape17.jpe.attest.azure.net/
+intunemaape18.jpe.attest.azure.net/
+intunemaape19.jpe.attest.azure.net/
+intunemaape2.eus2.attest.azure.net/
+intunemaape3.cus.attest.azure.net/
+intunemaape4.wus.attest.azure.net/
+intunemaape5.scus.attest.azure.net/
+intunemaape6.ncus.attest.azure.net/
+intunemaape7.neu.attest.azure.net/
+intunemaape8.neu.attest.azure.net/
+intunemaape9.neu.attest.azure.net/
 keybase.io/
 l.instagram.com/
 latency.discord.media/
