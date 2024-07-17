@@ -1,4 +1,4 @@
-# List compiled on 2024-06-27 22:44:45 UTC
+# List compiled on 2024-07-17 18:29:28 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -182,9 +182,10 @@ dealer.spotify.com
 
 # mobile-device-management
 ## jumpcloud
-### Jumpcloud - 2024-02-09
+### Jumpcloud - 2024-07-17
 apple.mdm.jumpcloud.com
 *.jumpcloud.com
+a1hrq03pdcca60-ats.iot.us-east-1.amazonaws.com
 
 # retail
 ## starbucks
