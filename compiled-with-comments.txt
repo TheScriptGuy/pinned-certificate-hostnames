@@ -1,4 +1,4 @@
-# List compiled on 2024-07-17 18:29:28 UTC
+# List compiled on 2024-07-18 21:31:23 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -392,6 +392,14 @@ gsp*-ssl.ls.apple.com
 ### siri
 #### Siri - 2024-05-01
 guzzoni.apple.com
+
+# vendors
+## apple
+### site-association
+#### Apple App Site Association - 2024-07-18
+app-site-association.cdn-apple.com
+app-site-association.networking.apple
+app-site-association-parent.networking.apple
 
 # vendors
 ## apple

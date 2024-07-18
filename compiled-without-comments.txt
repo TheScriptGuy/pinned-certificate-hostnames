@@ -1,4 +1,4 @@
-# List compiled on 2024-07-17 18:29:28 UTC
+# List compiled on 2024-07-18 21:31:23 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -67,6 +67,9 @@ api.soc.trellix.com
 api.twitter.com
 api.ventusky.com
 apis.ihg.com
+app-site-association-parent.networking.apple
+app-site-association.cdn-apple.com
+app-site-association.networking.apple
 appldnld.apple.com
 apple.mdm.jumpcloud.com
 apresolve.spotify.com
