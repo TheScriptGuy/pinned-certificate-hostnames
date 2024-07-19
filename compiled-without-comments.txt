@@ -1,4 +1,4 @@
-# List compiled on 2024-07-18 21:31:23 UTC
+# List compiled on 2024-07-19 17:52:19 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -258,6 +258,7 @@ swscan.apple.com
 sylvan.apple.com
 tickrmeter.io
 tr.teams.microsoft.com
+trace.svc.ui.com
 ts01-b.cloudsink.net
 update.filezilla-project.org
 update.googleapis.com
