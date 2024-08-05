@@ -1,4 +1,4 @@
-# List compiled on 2024-07-19 17:52:19 UTC
+# List compiled on 2024-08-05 22:28:59 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -12,8 +12,9 @@ signin.delta.com
 
 # aviation
 ## flightradar
-### FlightRadar - 2024-02-09
+### FlightRadar - 2024-08-05
 data-feed.flightradar24.com
+mobile.flightradar24.com
 
 # aviation
 ## southwest-airlines

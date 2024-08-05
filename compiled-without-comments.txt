@@ -1,4 +1,4 @@
-# List compiled on 2024-07-19 17:52:19 UTC
+# List compiled on 2024-08-05 22:28:59 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -205,6 +205,7 @@ media4.giphy.com
 mesu.apple.com
 misc.scdn.co
 misc.spotifycdn.com
+mobile.flightradar24.com
 mobile.southwest.com
 mobile.zscloud.net
 mobileapp.hyatt.com
