@@ -1,4 +1,4 @@
-# List compiled on 2024-08-05 22:28:59 UTC
+# List compiled on 2024-08-13 15:27:28 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -14,7 +14,6 @@ signin.delta.com
 ## flightradar
 ### FlightRadar - 2024-08-05
 data-feed.flightradar24.com
-mobile.flightradar24.com
 
 # aviation
 ## southwest-airlines
@@ -559,8 +558,10 @@ lic.lc.prod.eu.cs.paloaltonetworks.com
 # vendors
 ## palo-alto-networks
 ### sdwan
-#### Prisma SDWAN - 2024-06-05
+#### Prisma SDWAN - 2024-08-13
 sdwan-stats-hood-us.cgnx.net
+controller.hood.cgnx.net
+locator.cgnx.net
 
 # vendors
 ## rapid7
