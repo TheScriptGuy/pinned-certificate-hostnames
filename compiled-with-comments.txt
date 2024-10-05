@@ -1,4 +1,4 @@
-# List compiled on 2024-10-05 21:34:31 UTC
+# List compiled on 2024-10-05 21:35:55 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -157,7 +157,7 @@ media4.giphy.com
 
 # media
 ## spotify
-### Spotify - 2024-05-30
+### Spotify - 2024-10-05
 apresolve.spotify.com
 login5.spotify.com
 guc3-spclient.spotify.com
