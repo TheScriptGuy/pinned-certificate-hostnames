@@ -1,4 +1,4 @@
-# List compiled on 2024-10-05 21:35:55 UTC
+# List compiled on 2024-10-05 21:41:27 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -182,6 +182,10 @@ dealer.spotify.com
 video-akpcw-cdn-spotify-com.akamaized.net
 video-ak.cdn.spotify.com.splitter-eip.akadns.net
 video-fa.scdn.co
+api.spotify.com
+pl.scdn.co
+open.spotifycdn.com
+exp.wg.spotify.com
 
 # mobile-device-management
 ## jumpcloud

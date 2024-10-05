@@ -1,4 +1,4 @@
-# List compiled on 2024-10-05 21:35:55 UTC
+# List compiled on 2024-10-05 21:41:27 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -64,6 +64,7 @@ api.lc.prod.us.cs.paloaltonetworks.com/
 api.protonmail.ch/
 api.protonvpn.ch/
 api.soc.trellix.com/
+api.spotify.com/
 api.twitter.com/
 api.ventusky.com/
 apis.ihg.com/
@@ -130,6 +131,7 @@ enforcer.gov-hawkeye.services-edge.paloaltonetworks.com/
 enforcer.gov-iot.services-edge.paloaltonetworks.com/
 enforcer.stg-gov-hawkeye.services-edge.paloaltonetworks.com/
 enforcer.stg-gov-iot.services-edge.paloaltonetworks.com/
+exp.wg.spotify.com/
 f-log-win-extension.grammarily.io/
 f-log.grammarly.io/
 falcon.crowdstrike.com/
@@ -218,11 +220,13 @@ newjams-images.scdn.co/
 ns.itunes.apple.com/
 nydus.battle.net/
 open-ai-connect.skype.com/
+open.spotifycdn.com/
 openapi.starbucks.com/
 options.skype.com/
 oscdn.apple.com/
 osrecovery.apple.com/
 people.skype.com/
+pl.scdn.co/
 platformdl.adobe.com/
 portainer-io-assets.sfo2.digitaloceanspaces.com/
 powerpanelservice.cyberpower.com/
