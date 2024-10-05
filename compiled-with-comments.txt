@@ -1,4 +1,4 @@
-# List compiled on 2024-08-13 15:27:28 UTC
+# List compiled on 2024-10-05 21:34:31 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -179,6 +179,9 @@ charts-images.scdn.co
 lineup-images.scdn.co
 mosaic.scdn.co
 dealer.spotify.com
+video-akpcw-cdn-spotify-com.akamaized.net
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+video-fa.scdn.co
 
 # mobile-device-management
 ## jumpcloud

@@ -1,4 +1,4 @@
-# List compiled on 2024-08-13 15:27:28 UTC
+# List compiled on 2024-10-05 21:34:31 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -282,6 +282,9 @@ verify-api.protonvpn.com
 verify.proton.me
 verify.protonmail.com
 verify.protonvpn.com
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+video-akpcw-cdn-spotify-com.akamaized.net
+video-fa.scdn.co
 weather-data.apple.com
 web.facebook.com
 win-extension.femetrics.grammarly.io
