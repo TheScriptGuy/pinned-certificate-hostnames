@@ -1,4 +1,4 @@
-# List compiled on 2024-10-05 21:41:27 UTC
+# List compiled on 2024-10-25 16:23:51 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -244,6 +244,7 @@ sentry.io/
 services.gradle.org/
 signin.delta.com/
 skl.apple.com/
+slscr.update.microsoft.com/
 smetrics.com/
 spclient.wg.spotify.com/
 sstats.adobe.com/

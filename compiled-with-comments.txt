@@ -1,4 +1,4 @@
-# List compiled on 2024-10-05 21:41:27 UTC
+# List compiled on 2024-10-25 16:23:51 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -510,6 +510,12 @@ us-v20.events.data.microsoft.com
 #### Microsoft Teams - 2024-04-05
 tr.teams.microsoft.com
 *.relay.teams.microsoft.com
+
+# vendors
+## microsoft
+### update
+#### Microsoft Updates - 2024-10-25
+slscr.update.microsoft.com
 
 # vendors
 ## palo-alto-networks
