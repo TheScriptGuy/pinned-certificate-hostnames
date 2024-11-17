@@ -1,4 +1,4 @@
-# List compiled on 2024-11-17 07:55:12 UTC
+# List compiled on 2024-11-17 08:16:19 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -222,6 +222,9 @@ i.instagram.com
 i-fallback.instagram.com
 gateway.instagram.com
 l.instagram.com
+scontent.cdninstagram.com
+graph-fallback.instagram.com
+graph.instagram.com
 
 # social-media
 ## snapchat

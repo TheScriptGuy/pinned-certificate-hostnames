@@ -1,4 +1,4 @@
-# List compiled on 2024-11-17 07:55:12 UTC
+# List compiled on 2024-11-17 08:16:19 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -155,7 +155,9 @@ googlecloudtools.gallery.vsassets.io/
 googlecloudtools.gallerycdn.vsassets.io/
 gov-hawkeye.services-edge.paloaltonetworks.com/
 gov-iot.services-edge.paloaltonetworks.com/
+graph-fallback.instagram.com/
 graph.facebook.com/
+graph.instagram.com/
 graph.oculus.com/
 gsp*-ssl.ls.apple.com/
 guc3-dealer.spotify.com/
@@ -240,6 +242,7 @@ protonmail.com/
 protonvpn.ch/
 protonvpn.com/
 rupload.facebook.com/
+scontent.cdninstagram.com/
 scontent.xx.fbcdn.net/
 sdwan-stats-hood-us.cgnx.net/
 seed-mix-image.spotifycdn.com/
