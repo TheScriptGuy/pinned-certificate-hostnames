@@ -1,4 +1,4 @@
-# List compiled on 2024-11-17 07:50:23 UTC
+# List compiled on 2024-11-17 07:51:29 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -161,6 +161,7 @@ guc3-dealer.spotify.com
 guc3-spclient.spotify.com
 guzzoni.apple.com
 heads-fa.scdn.co
+http.fw.updates1.netgear.com
 i-fallback.instagram.com
 i.instagram.com
 i.scdn.co
