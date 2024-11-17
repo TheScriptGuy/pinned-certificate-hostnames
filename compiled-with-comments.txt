@@ -1,4 +1,4 @@
-# List compiled on 2024-11-17 07:51:29 UTC
+# List compiled on 2024-11-17 07:55:12 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -522,6 +522,7 @@ slscr.update.microsoft.com
 ### Netgear - 2024-11-16
 genieremote.netgear.com
 http.fw.updates1.netgear.com
+devcom.up.netgear.com
 
 # vendors
 ## palo-alto-networks
