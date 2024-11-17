@@ -1,4 +1,4 @@
-# List compiled on 2024-10-25 16:23:51 UTC
+# List compiled on 2024-11-17 07:50:23 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -516,6 +516,11 @@ tr.teams.microsoft.com
 ### update
 #### Microsoft Updates - 2024-10-25
 slscr.update.microsoft.com
+
+# vendors
+## netgear
+### Netgear - 2024-11-16
+genieremote.netgear.com
 
 # vendors
 ## palo-alto-networks

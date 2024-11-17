@@ -1,4 +1,4 @@
-# List compiled on 2024-10-25 16:23:51 UTC
+# List compiled on 2024-11-17 07:50:23 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -141,6 +141,7 @@ gateway.discord.gg
 gateway.facebook.com
 gateway.instagram.com
 gatewaydsapprd.marriott.com
+genieremote.netgear.com
 geo.battle.net
 get.adobe.com
 get3.adobe.com
