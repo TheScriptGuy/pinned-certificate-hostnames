@@ -1,4 +1,4 @@
-# List compiled on 2024-11-17 08:16:19 UTC
+# List compiled on 2024-11-19 19:14:37 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -608,6 +608,22 @@ mcs2-cloudstation-us-east-1.prod.hydra.sophos.com
 *.manage.trellix.com
 lc.trellix.com
 api.soc.trellix.com
+
+# vendors
+## trendmicro
+### TrendMicro - 2024-11-19
+*.aot.trendmicro.com
+*.activeupdate.trendmicro.com
+*.icrc.trendmicro.com
+*.url.trendmicro.com
+*.fbs25.trendmicro.com
+*.gfrbridge.trendmicro.com
+*.trx.trendmicro.com
+*.mgcp.trendmicro.com
+*.xbc.trendmicro.com
+*.manage.trendmicro.com
+*.xdr.trendmicro.com
+*.trendmicro.com
 
 # vendors
 ## ubiquiti
