@@ -1,4 +1,4 @@
-# List compiled on 2024-11-19 19:14:37 UTC
+# List compiled on 2024-11-27 18:25:49 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -455,6 +455,11 @@ crowdstrike.com
 cloudsink.net
 ts01-b.cloudsink.net
 lfodown01-b.cloudsink.net
+
+# vendors
+## hcaptcha
+### hCaptcha - 2024-11-27
+api.hcaptcha.com
 
 # vendors
 ## meta
