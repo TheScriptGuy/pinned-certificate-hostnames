@@ -1,4 +1,4 @@
-# List compiled on 2024-11-27 18:25:49 UTC
+# List compiled on 2024-11-27 18:32:13 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -393,6 +393,12 @@ sylvan.apple.com
 
 # vendors
 ## apple
+### icloud
+#### iCloud - 2024-11-27
+gateway.attester.icloud.com
+
+# vendors
+## apple
 ### maps
 #### Apple Maps - 2024-02-09
 gsp*-ssl.ls.apple.com
@@ -455,11 +461,6 @@ crowdstrike.com
 cloudsink.net
 ts01-b.cloudsink.net
 lfodown01-b.cloudsink.net
-
-# vendors
-## hcaptcha
-### hCaptcha - 2024-11-27
-api.hcaptcha.com
 
 # vendors
 ## meta
