@@ -1,4 +1,4 @@
-# List compiled on 2024-11-27 18:32:13 UTC
+# List compiled on 2024-12-29 19:57:27 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -255,6 +255,7 @@ protonmail.com
 protonvpn.ch
 protonvpn.com
 rupload.facebook.com
+scontent-sea1-1.cdninstagram.com
 scontent.cdninstagram.com
 scontent.xx.fbcdn.net
 sdwan-stats-hood-us.cgnx.net
