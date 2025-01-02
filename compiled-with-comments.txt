@@ -1,4 +1,4 @@
-# List compiled on 2025-01-02 21:43:56 UTC
+# List compiled on 2025-01-02 21:49:48 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -395,8 +395,8 @@ sylvan.apple.com
 # vendors
 ## apple
 ### icloud
-#### iCloud - 2024-11-27
-gateway.attester.icloud.com
+#### iCloud - 2025-01-02
+attester.gateway.icloud.com
 
 # vendors
 ## apple
@@ -462,11 +462,6 @@ crowdstrike.com
 cloudsink.net
 ts01-b.cloudsink.net
 lfodown01-b.cloudsink.net
-
-# vendors
-## hcaptcha
-### hCaptcha - 2025-01-02
-api.hcaptcha.com
 
 # vendors
 ## meta

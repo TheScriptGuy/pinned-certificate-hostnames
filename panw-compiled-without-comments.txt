@@ -1,4 +1,4 @@
-# List compiled on 2025-01-02 21:43:56 UTC
+# List compiled on 2025-01-02 21:49:48 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -70,7 +70,6 @@ api.blizzard.com/
 api.delta.com/
 api.flightproxy.skype.com/
 api.github.com/
-api.hcaptcha.com/
 api.keybase.io/
 api.lc.prod.eu.cs.paloaltonetworks.com/
 api.lc.prod.us.cs.paloaltonetworks.com/
@@ -87,6 +86,7 @@ app-site-association.networking.apple/
 appldnld.apple.com/
 apple.mdm.jumpcloud.com/
 apresolve.spotify.com/
+attester.gateway.icloud.com/
 audio4-ak-spotify-com.akamaized.net/
 audio4-fa.scdn.co/
 audio4-gm-fb.spotifycdn.com/
@@ -151,7 +151,6 @@ f-log.grammarly.io/
 falcon.crowdstrike.com/
 fpdownload.adobe.com/
 fpinit.itunes.apple.com/
-gateway.attester.icloud.com/
 gateway.discord.gg/
 gateway.facebook.com/
 gateway.instagram.com/
