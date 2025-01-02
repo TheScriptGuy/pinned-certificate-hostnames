@@ -1,4 +1,4 @@
-# List compiled on 2025-01-02 21:39:30 UTC
+# List compiled on 2025-01-02 21:43:56 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -70,6 +70,7 @@ api.blizzard.com
 api.delta.com
 api.flightproxy.skype.com
 api.github.com
+api.hcaptcha.com
 api.keybase.io
 api.lc.prod.eu.cs.paloaltonetworks.com
 api.lc.prod.us.cs.paloaltonetworks.com
