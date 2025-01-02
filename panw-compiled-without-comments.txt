@@ -1,4 +1,4 @@
-# List compiled on 2024-12-29 19:57:27 UTC
+# List compiled on 2025-01-02 21:39:30 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
