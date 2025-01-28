@@ -1,4 +1,4 @@
-# List compiled on 2025-01-02 21:49:48 UTC
+# List compiled on 2025-01-28 02:31:28 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -385,6 +385,12 @@ api.apple-cloudkit.com
 #### App Store - 2024-02-07
 fpinit.itunes.apple.com
 init.ess.apple.com
+
+# vendors
+## apple
+### apple-pay
+#### Apple Pay - 2025-01-25
+pr-pod11-smp-device.apple.com
 
 # vendors
 ## apple

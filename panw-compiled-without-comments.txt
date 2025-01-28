@@ -1,4 +1,4 @@
-# List compiled on 2025-01-02 21:49:48 UTC
+# List compiled on 2025-01-28 02:31:28 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -248,6 +248,7 @@ pl.scdn.co/
 platformdl.adobe.com/
 portainer-io-assets.sfo2.digitaloceanspaces.com/
 powerpanelservice.cyberpower.com/
+pr-pod11-smp-device.apple.com/
 prod.registrar.skype.com/
 proton.me/
 protonmail.ch/
