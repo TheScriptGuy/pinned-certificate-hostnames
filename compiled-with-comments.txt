@@ -1,4 +1,4 @@
-# List compiled on 2025-03-02 00:32:06 UTC
+# List compiled on 2025-03-02 00:54:31 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -390,21 +390,7 @@ init.ess.apple.com
 ## apple
 ### apple-pay
 #### Apple Pay - 2025-01-25
-pr-pod1-smp-device.apple.com
-pr-pod2-smp-device.apple.com
-pr-pod3-smp-device.apple.com
-pr-pod4-smp-device.apple.com
-pr-pod5-smp-device.apple.com
-pr-pod6-smp-device.apple.com
-pr-pod7-smp-device.apple.com
-pr-pod8-smp-device.apple.com
-pr-pod9-smp-device.apple.com
-pr-pod10-smp-device.apple.com
-pr-pod11-smp-device.apple.com
-pr-pod12-smp-device.apple.com
-pr-pod13-smp-device.apple.com
-pr-pod14-smp-device.apple.com
-pr-pod15-smp-device.apple.com
+smp-paymentservices.apple.com
 
 # vendors
 ## apple
@@ -423,6 +409,12 @@ attester.gateway.icloud.com
 ### maps
 #### Apple Maps - 2024-02-09
 gsp*-ssl.ls.apple.com
+
+# vendors
+## apple
+### podcasts
+#### Apple Podcasts - 2025-03-01
+amp-api.podcasts.apple.com
 
 # vendors
 ## apple

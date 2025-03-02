@@ -1,4 +1,4 @@
-# List compiled on 2025-03-02 00:32:06 UTC
+# List compiled on 2025-03-02 00:54:31 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -61,6 +61,7 @@ agents.us1.us-east-2.dem.prismaaccess.com
 alert-eu.battle.net
 alert-us.battle.net
 alive.github.com
+amp-api.podcasts.apple.com
 api-m.paypal.com
 api-partner.spotify.com
 api.apple-cloudkit.com
@@ -248,21 +249,6 @@ pl.scdn.co
 platformdl.adobe.com
 portainer-io-assets.sfo2.digitaloceanspaces.com
 powerpanelservice.cyberpower.com
-pr-pod1-smp-device.apple.com
-pr-pod10-smp-device.apple.com
-pr-pod11-smp-device.apple.com
-pr-pod12-smp-device.apple.com
-pr-pod13-smp-device.apple.com
-pr-pod14-smp-device.apple.com
-pr-pod15-smp-device.apple.com
-pr-pod2-smp-device.apple.com
-pr-pod3-smp-device.apple.com
-pr-pod4-smp-device.apple.com
-pr-pod5-smp-device.apple.com
-pr-pod6-smp-device.apple.com
-pr-pod7-smp-device.apple.com
-pr-pod8-smp-device.apple.com
-pr-pod9-smp-device.apple.com
 prod.registrar.skype.com
 proton.me
 protonmail.ch
@@ -282,6 +268,7 @@ signin.delta.com
 skl.apple.com
 slscr.update.microsoft.com
 smetrics.com
+smp-paymentservices.apple.com
 spclient.wg.spotify.com
 sstats.adobe.com
 static-asm.secure.skypeassets.com
