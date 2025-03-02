@@ -1,4 +1,4 @@
-# List compiled on 2025-01-28 02:39:35 UTC
+# List compiled on 2025-03-02 00:32:06 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -627,6 +627,7 @@ us.storage.main.endpoint.ingress.rapid7.com
 ### Sophos - 2024-05-30
 4.sophosxl.net
 sus.sophosupd.com
+sdds3.sophosupd.com
 mcs2-cloudstation-us-east-1.prod.hydra.sophos.com
 
 # vendors
