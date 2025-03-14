@@ -1,4 +1,4 @@
-# List compiled on 2025-03-14 03:18:46 UTC
+# List compiled on 2025-03-14 03:29:56 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -397,12 +397,6 @@ smp-paymentservices.apple.com
 ### apple-tv
 #### Apple TV - 2024-04-22
 sylvan.apple.com
-
-# vendors
-## apple
-### esim-activation
-#### eSIM Activation - 2025-03-13
-sse-ws-p189.apple.com
 
 # vendors
 ## apple

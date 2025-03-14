@@ -1,4 +1,4 @@
-# List compiled on 2025-03-14 03:18:46 UTC
+# List compiled on 2025-03-14 03:29:56 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -270,7 +270,6 @@ slscr.update.microsoft.com/
 smetrics.com/
 smp-paymentservices.apple.com/
 spclient.wg.spotify.com/
-sse-ws-p189.apple.com/
 sstats.adobe.com/
 static-asm.secure.skypeassets.com/
 stats.adobe.com/
