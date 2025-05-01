@@ -1,4 +1,4 @@
-# List compiled on 2025-03-14 03:29:56 UTC
+# List compiled on 2025-05-01 23:33:33 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -112,6 +112,8 @@ certauth.login.microsoftonline.com
 cf-st.sc-cdn.net
 channels.skype.com
 charts-images.scdn.co
+clienttoken.spotify.com
+cloud.sensorpush.com
 cloudsink.net
 code.calibre-ebook.com
 config.edge.skype.com
@@ -120,6 +122,7 @@ content-ui.battle.net
 controller.hood.cgnx.net
 crowdstrike.com
 d9qcypg7o58bv.cloudfront.net
+daily-mix.scdn.co
 dailymix-images.scdn.co
 data-feed.flightradar24.com
 data.ventusky.com
@@ -210,6 +213,7 @@ lfodown01-b.cloudsink.net
 lic.lc.prod.eu.cs.paloaltonetworks.com
 lic.lc.prod.us.cs.paloaltonetworks.com
 license-portal-eb.studio3t.com
+lineup-images.scdn.co
 lineup-images.scdn.co
 locator.cgnx.net
 login.live.com

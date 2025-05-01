@@ -1,4 +1,4 @@
-# List compiled on 2025-03-14 03:29:56 UTC
+# List compiled on 2025-05-01 23:33:33 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -186,6 +186,9 @@ api.spotify.com
 pl.scdn.co
 open.spotifycdn.com
 exp.wg.spotify.com
+clienttoken.spotify.com
+daily-mix.scdn.co
+lineup-images.scdn.co
 
 # mobile-device-management
 ## jumpcloud
@@ -613,6 +616,11 @@ endpoint.ingress.rapid7.com
 us.api.endpoint.ingress.rapid7.com
 us.storage.endpoint.ingress.rapid7.com
 us.storage.main.endpoint.ingress.rapid7.com
+
+# vendors
+## sensorpush
+### Sensorpush - 2025-05-01
+cloud.sensorpush.com
 
 # vendors
 ## sophos
