@@ -1,4 +1,4 @@
-# List compiled on 2025-05-01 23:33:33 UTC
+# List compiled on 2025-05-02 00:09:23 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -621,6 +621,7 @@ us.storage.main.endpoint.ingress.rapid7.com
 ## sensorpush
 ### Sensorpush - 2025-05-01
 cloud.sensorpush.com
+cognito-identity.us-east-1.amazonaws.com
 
 # vendors
 ## sophos

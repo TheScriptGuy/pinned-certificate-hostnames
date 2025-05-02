@@ -1,4 +1,4 @@
-# List compiled on 2025-05-01 23:33:33 UTC
+# List compiled on 2025-05-02 00:09:23 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -116,6 +116,7 @@ clienttoken.spotify.com/
 cloud.sensorpush.com/
 cloudsink.net/
 code.calibre-ebook.com/
+cognito-identity.us-east-1.amazonaws.com/
 config.edge.skype.com/
 configuration.apple.com/
 content-ui.battle.net/
