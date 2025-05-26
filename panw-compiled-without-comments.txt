@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 02:30:14 UTC
+# List compiled on 2025-05-26 02:37:07 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -116,6 +116,7 @@ controller.hood.cgnx.net/
 crowdstrike.com/
 d9qcypg7o58bv.cloudfront.net/
 daily-mix.scdn.co/
+daily-mix.scdn.co/
 dailymix-images.scdn.co/
 data-feed.flightradar24.com/
 data.ventusky.com/
@@ -222,6 +223,7 @@ media2.giphy.com/
 media3.giphy.com/
 media4.giphy.com/
 mesu.apple.com/
+misc.scdn.co/
 misc.scdn.co/
 misc.spotifycdn.com/
 mobile.southwest.com/
