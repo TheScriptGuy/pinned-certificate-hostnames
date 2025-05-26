@@ -1,4 +1,4 @@
-# List compiled on 2025-05-02 00:09:23 UTC
+# List compiled on 2025-05-26 02:30:14 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -50,26 +50,6 @@ api.keybase.io
 cdn.signal.org
 cdn2.signal.org
 *.signal.org
-
-# communication
-## skype
-### Skype - 2024-02-07
-open-ai-connect.skype.com
-channels.skype.com
-avatar.skype.com
-az705183.vo.msecnd.net
-config.edge.skype.com
-edge.skype.com
-static-asm.secure.skypeassets.com
-api.asm.skype.com
-api.aps.skype.com
-azscus1-client-s.gateway.messenger.live.com
-go.trouter.skype.com
-msgsearch.skype.com
-people.skype.com
-options.skype.com
-api.flightproxy.skype.com
-prod.registrar.skype.com
 
 # communication
 ## whatsapp
@@ -189,6 +169,7 @@ exp.wg.spotify.com
 clienttoken.spotify.com
 daily-mix.scdn.co
 lineup-images.scdn.co
+gue1-spclient.spotify.com
 
 # mobile-device-management
 ## jumpcloud

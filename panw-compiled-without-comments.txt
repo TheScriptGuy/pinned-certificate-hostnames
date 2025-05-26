@@ -1,4 +1,4 @@
-# List compiled on 2025-05-02 00:09:23 UTC
+# List compiled on 2025-05-26 02:30:14 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -65,11 +65,8 @@ amp-api.podcasts.apple.com/
 api-m.paypal.com/
 api-partner.spotify.com/
 api.apple-cloudkit.com/
-api.aps.skype.com/
-api.asm.skype.com/
 api.blizzard.com/
 api.delta.com/
-api.flightproxy.skype.com/
 api.github.com/
 api.keybase.io/
 api.lc.prod.eu.cs.paloaltonetworks.com/
@@ -92,11 +89,8 @@ audio4-ak-spotify-com.akamaized.net/
 audio4-fa.scdn.co/
 audio4-gm-fb.spotifycdn.com/
 auth.studio3t.com/
-avatar.skype.com/
 avatars.githubusercontent.com/
-az705183.vo.msecnd.net/
 az764295.vo.msecnd.net/
-azscus1-client-s.gateway.messenger.live.com/
 blz-contentstack-assets.akamaized.net/
 blz-contentstack-images.akamaized.net/
 blzprofile.akamaized.net/
@@ -110,14 +104,12 @@ cdn2.signal.org/
 central.github.com/
 certauth.login.microsoftonline.com/
 cf-st.sc-cdn.net/
-channels.skype.com/
 charts-images.scdn.co/
 clienttoken.spotify.com/
 cloud.sensorpush.com/
 cloudsink.net/
 code.calibre-ebook.com/
 cognito-identity.us-east-1.amazonaws.com/
-config.edge.skype.com/
 configuration.apple.com/
 content-ui.battle.net/
 controller.hood.cgnx.net/
@@ -144,7 +136,6 @@ dlp.uk.hawkeye.services-edge.paloaltonetworks.com/
 eamodio.gallerycdn.vsassets.io/
 ecs.nel.measure.office.net/
 edge-mqtt.facebook.com/
-edge.skype.com/
 endpoint.ingress.rapid7.com/
 enforcer.gov-hawkeye.services-edge.paloaltonetworks.com/
 enforcer.gov-iot.services-edge.paloaltonetworks.com/
@@ -168,7 +159,6 @@ gg.apple.com/
 github.gallerycdn.vsassets.io/
 gnf-mdn.apple.com/
 gnf-mr.apple.com/
-go.trouter.skype.com/
 googlecloudtools.gallery.vsassets.io/
 googlecloudtools.gallerycdn.vsassets.io/
 gov-hawkeye.services-edge.paloaltonetworks.com/
@@ -180,6 +170,7 @@ graph.oculus.com/
 gsp*-ssl.ls.apple.com/
 guc3-dealer.spotify.com/
 guc3-spclient.spotify.com/
+gue1-spclient.spotify.com/
 guzzoni.apple.com/
 heads-fa.scdn.co/
 http.fw.updates1.netgear.com/
@@ -239,22 +230,17 @@ mobileapp.hyatt.com/
 mosaic.scdn.co/
 ms-vscode-remote.gallery.vsassets.io/
 ms-vscode-remote.gallerycdn.vsassets.io/
-msgsearch.skype.com/
 newjams-images.scdn.co/
 ns.itunes.apple.com/
 nydus.battle.net/
-open-ai-connect.skype.com/
 open.spotifycdn.com/
 openapi.starbucks.com/
-options.skype.com/
 oscdn.apple.com/
 osrecovery.apple.com/
-people.skype.com/
 pl.scdn.co/
 platformdl.adobe.com/
 portainer-io-assets.sfo2.digitaloceanspaces.com/
 powerpanelservice.cyberpower.com/
-prod.registrar.skype.com/
 proton.me/
 protonmail.ch/
 protonmail.com/
@@ -276,7 +262,6 @@ smetrics.com/
 smp-paymentservices.apple.com/
 spclient.wg.spotify.com/
 sstats.adobe.com/
-static-asm.secure.skypeassets.com/
 stats.adobe.com/
 status.discord.com/
 status.proton.me/
