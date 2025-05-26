@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 02:37:07 UTC
+# List compiled on 2025-05-26 04:31:18 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -254,6 +254,7 @@ scontent.cdninstagram.com
 scontent.xx.fbcdn.net
 sdds3.sophosupd.com
 sdwan-stats-hood-us.cgnx.net
+seed-mix-image.spotifycdn.com
 seed-mix-image.spotifycdn.com
 sentry.io
 services.gradle.org
