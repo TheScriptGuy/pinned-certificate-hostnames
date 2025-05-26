@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 23:25:10 UTC
+# List compiled on 2025-05-26 23:32:56 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -87,6 +87,8 @@ appldnld.apple.com/
 apple.mdm.jumpcloud.com/
 apresolve.spotify.com/
 attester.gateway.icloud.com/
+audio-ak.spotifycdn.com/
+audio-fa.scdn.co/
 audio4-ak-spotify-com.akamaized.net/
 audio4-fa.scdn.co/
 audio4-gm-fb.spotifycdn.com/
@@ -176,12 +178,14 @@ guc3-dealer.spotify.com/
 guc3-spclient.spotify.com/
 gue1-spclient.spotify.com/
 guzzoni.apple.com/
+heads-fa-tls13.spotifycdn.com/
 heads-fa.scdn.co/
 http.fw.updates1.netgear.com/
 i-fallback.instagram.com/
 i.instagram.com/
 i.scdn.co/
 ig.apple.com/
+image-cdn-ak.spotifycdn.com/
 in.lc.prod.eu.cs.paloaltonetworks.com/
 in.lc.prod.us.cs.paloaltonetworks.com/
 init.ess.apple.com/
@@ -205,6 +209,7 @@ keybase.io/
 l.instagram.com/
 latency.discord.media/
 lc.trellix.com/
+lexicon-assets.spotifycdn.com/
 lfodown01-b.cloudsink.net/
 lic.lc.prod.eu.cs.paloaltonetworks.com/
 lic.lc.prod.us.cs.paloaltonetworks.com/

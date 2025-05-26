@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 23:25:10 UTC
+# List compiled on 2025-05-26 23:32:56 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -176,6 +176,11 @@ gue1-spclient.spotify.com
 seed-mix-image.spotifycdn.com
 ap-gew4.spotify.com
 ap-guc3.spotify.com
+lexicon-assets.spotifycdn.com
+image-cdn-ak.spotifycdn.com
+audio-fa.scdn.co
+heads-fa-tls13.spotifycdn.com
+audio-ak.spotifycdn.com
 
 # mobile-device-management
 ## jumpcloud
