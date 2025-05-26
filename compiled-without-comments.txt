@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 22:49:20 UTC
+# List compiled on 2025-05-26 23:25:10 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -171,6 +171,7 @@ graph.facebook.com
 graph.instagram.com
 graph.oculus.com
 gsp*-ssl.ls.apple.com
+guc3-dealer.g2.spotify.com
 guc3-dealer.spotify.com
 guc3-spclient.spotify.com
 gue1-spclient.spotify.com
