@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 04:31:18 UTC
+# List compiled on 2025-05-26 22:49:20 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -62,6 +62,8 @@ alert-eu.battle.net/
 alert-us.battle.net/
 alive.github.com/
 amp-api.podcasts.apple.com/
+ap-gew4.spotify.com/
+ap-guc3.spotify.com/
 api-m.paypal.com/
 api-partner.spotify.com/
 api.apple-cloudkit.com/
