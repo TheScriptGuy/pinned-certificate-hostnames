@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 23:32:56 UTC
+# List compiled on 2025-07-05 18:58:35 UTC
 *.*.fna.fbcdn.net/
 *.*.prod.zpath.net/
 *.acrobat.com/
@@ -186,6 +186,7 @@ i.instagram.com/
 i.scdn.co/
 ig.apple.com/
 image-cdn-ak.spotifycdn.com/
+image-cdn-fa.spotifycdn.com/
 in.lc.prod.eu.cs.paloaltonetworks.com/
 in.lc.prod.us.cs.paloaltonetworks.com/
 init.ess.apple.com/
@@ -247,6 +248,7 @@ open.spotifycdn.com/
 openapi.starbucks.com/
 oscdn.apple.com/
 osrecovery.apple.com/
+pickasso.spotifycdn.com/
 pl.scdn.co/
 platformdl.adobe.com/
 portainer-io-assets.sfo2.digitaloceanspaces.com/

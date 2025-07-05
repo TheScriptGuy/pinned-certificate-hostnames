@@ -1,4 +1,4 @@
-# List compiled on 2025-05-26 23:32:56 UTC
+# List compiled on 2025-07-05 18:58:35 UTC
 # aviation
 ## american-airlines
 ### American Airlines - 2024-02-07
@@ -178,9 +178,11 @@ ap-gew4.spotify.com
 ap-guc3.spotify.com
 lexicon-assets.spotifycdn.com
 image-cdn-ak.spotifycdn.com
+image-cdn-fa.spotifycdn.com
 audio-fa.scdn.co
 heads-fa-tls13.spotifycdn.com
 audio-ak.spotifycdn.com
+pickasso.spotifycdn.com
 
 # mobile-device-management
 ## jumpcloud
