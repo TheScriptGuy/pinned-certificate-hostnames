@@ -1,4 +1,4 @@
-# List compiled on 2025-07-05 18:58:35 UTC
+# List compiled on 2025-07-05 19:11:11 UTC
 *.*.fna.fbcdn.net
 *.*.prod.zpath.net
 *.acrobat.com
@@ -325,4 +325,5 @@ Www-glz.api.concursolutions.com
 www.googleapis.com
 www.oculus.com
 xp.apple.com
+xpui.app.spotify.com
 zoom.us
